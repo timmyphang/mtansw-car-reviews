@@ -1,0 +1,124 @@
+---
+title: "Mercedes Benz M Class Used Car Buyer's Guide"
+make: Mercedes Benz
+model: M Class
+description: "Comprehensive used car review for the Mercedes Benz M Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+locale: en-AU
+canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__m-class.md"
+topic_type: buyers-guide
+last_updated: "2026-07-24"
+active_listings_nsw: 0
+median_price_aud: 0
+price_range_aud: "AUD $0 – $0"
+year_range: "? – ?"
+median_odometer_km: 0
+keywords: [mercedes benz, m class, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Mercedes Benz, M Class]
+---
+
+#### 1. Introduction & Market Positioning
+
+- Generation covered: the third-generation M‑Class — internal code W166 — introduced with a 2011/2012 model-year refresh and sold under the M‑Class nameplate until Mercedes renamed it GLE in 2015/2016. The W166 is the lineup most NSW listings in 2013–2014 will be. (See Mercedes‑Benz/GLE lineage) [Wikipedia](https://en.wikipedia.org/wiki/Mercedes-Benz_GLE) and generational overviews [AutoEvolution](https://www.autoevolution.com/mercedes-benz/m-klasse/).
+- Product hierarchy: the M‑Class (W166) sits in the middle of Mercedes’ SUV range — above compact SUVs (GLA/GLC equivalents), below full‑size GLS/GL. The AMG ML63 (flagship performance version) sat above regular petrol/diesel ML350/ML250 trims in the line-up [Mercedes‑Benz USA media, KBB](https://media.mbusa.com/releases/release-3dabc386f3504ec084a6ef12036bc771-2010-Mercedes-Benz-M-Class-Options-Availability-and-Pricing) [KBB](https://www.kbb.com/mercedes-benz/m-class/2010/specs/).
+- Platform architecture and parts commonality: W166 shares a global Mercedes midsize luxury SUV architecture with GL and later GLE derivatives — that broad family boosts parts availability for suspension, body panels and electronics. (High‑level platform summary) [Wikipedia](https://en.wikipedia.org/wiki/Mercedes-Benz_GLE) and product specs [Auto‑Data / UltimateSpecs](https://www.auto-data.net/en/mercedes-benz-m-class-model-1379) [https://www.ultimatespecs.com/car-specs/Mercedes-Benz-models/Mercedes-Benz-M-Class](https://www.ultimatespecs.com/car-specs/Mercedes-Benz-models/Mercedes-Benz-M-Class).
+- Market‑specific engines, outputs, transmissions and drivetrains (common Australian-market flavours you’ll see on used 2012–2015 W166 stock):
+  - ML350 petrol V6 (various tunes over the years) — seven‑speed automatic prevalent after 2012; 4MATIC all‑wheel drive offered on many variants [Cars.com summary of the 2012 redesign](https://www.cars.com/research/mercedes_benz-m_class/).
+  - ML350 BlueTEC diesel (3.0L V6 diesel, OM642 family) — six/ seven‑speed automatics, 4MATIC variants common; diesel popular in Australia for long‑distance drivers [OM642 guide](https://en.mercedesassistance.com/mercedes-om642-engine/).
+  - ML450 Hybrid and ML550/ML63 AMG (higher spec/power options) were available in some markets — hybrids and AMG models were rarer and pricier [Mercedes media / KBB](https://media.mbusa.com/releases/release-3dabc386f3504ec084a6ef12036bc771-2010-Mercedes-Benz-M-Class-Options-Availability-and-Pricing) [KBB](https://www.kbb.com/mercedes-benz/m-class/2010/specs/).
+  - Transmissions: seven‑speed automatic (7G‑Tronic) became the norm on W166; older models used 5/7‑speed variants depending on year and engine [Cars.com / transmission references].
+  - Drive configuration: most Australian‑market MLs you’ll see are 4MATIC (permanent AWD) though some rear‑wheel biased or 2WD examples exist in other markets [Auto‑Data / Cars.com].
+- Marketplace rivals: BMW X5, Audi Q7, Lexus RX, Porsche Cayenne, Genesis GV80 and Acura MDX — the usual German/Japanese/American luxury midsize SUV ring‑round [U.S. News / Edmunds / CarGurus comparison pages] [U.S. News](https://cars.usnews.com/cars-trucks/rankings/luxury-midsize-suvs) [Edmunds comparison](https://www.edmunds.com/car-comparisons/bmw-x5-vs-mercedes-benz-gle/) [CarGurus](https://www.cargurus.com/research/compare/Mercedes-Benz-M-Class-vs-Mercedes-Benz-GLE-Class-d80-d2317).
+
+#### 2. What goes wrong with a used Mercedes‑Benz M‑Class?
+
+Below I break down the common failure modes and ownership headaches you’ll actually face in Australia. Be direct: Mercedes built a brilliant luxury package with some high‑maintenance bits. Know them before you hand over $20k.
+
+Exterior
+- Panel fit and paint:
+  - Owners frequently report inconsistent panel gaps and fit — factory tolerances can vary and gaps are often the first giveaway of previous repair work after an accident. Check doors, bonnet and tailgate fit, and look for overspray around seams as a tell. Community threads document this for W166/W164 owners [MBWorld forum reports](https://mbworld.org/forums/w166-m-class-gle-class-2012-2019.190/).
+  - Clear‑coat delamination shows up on older examples — long Australian sun, chemicals and degraded coatings can cause peeling that needs a respray to fix. This is irreversible and common on higher‑mileage, poorly garaged cars [BenzWorld/clear coat threads](https://www.benzworld.org/forums/c218/914283-these-panel-gaps-normal.html) and general clear‑coat threads [BenzWorld.org clear coat discussion](https://www.benzworld.org/threads/these-panel-gaps-normal.914283/).
+- Trim and mouldings:
+  - Exterior mouldings, gloss black/chrome trim and plastic cladding can fade, crack or unclip — common wear items affecting curb appeal; aftermarket trims and OEM pieces are available from parts houses [ECS Tuning listing for mouldings](https://www.ecstuning.com/Mercedes_Benz/Exterior/Body/Molding_-and-_Trim/).
+- ADAS and radar‑based systems:
+  - Radar sensors and adaptive systems (DISTRONIC, Active Brake Assist) can throw false warnings, become ‘unavailable’, or trigger unintended braking if sensors are dirty, misaligned or if software is behind. Community reports exist of false activations and intermittent failures. Some issues were fixed by dealer calibration/firmware but others need sensor/module replacement. If ADAS is a selling point, insist on documented recent calibrations and no outstanding fault codes [Mercedes driver assist overview, NHTSA recall resources, forum threads on ADAS faults] [MBUSA driver assistance](https://www.mbusa.com/en/driver-assistance-features) [MBWorld ADAS threads](https://mbworld.org/forums/mercedes-tech-talk/754022-emergency-braking-system-malfunctions.html) [Mercedes Medic radar guide](https://www.mercedesmedic.com/mercedes-radar-sensor-problems-solutions/).
+  - Post‑collision repairs almost always require ADAS calibration — check for a proper calibration stamp in the service history. I‑CAR notes Mercedes ADAS requires specialist recalibration after panel/radar work [I‑CAR ADAS resource](https://rts.i-car.com/oem-information/mercedes-benz/mercedes-benz-adas.html).
+
+Interior
+- Durability under hard use:
+  - The M‑Class cabin ages acceptably but in rideshare/taxi or dog/boat duty you'll see scuffed leather, rattling interior quarter trims and failing clips. The rear quarter trim rattles are so common there are DIY fixes posted to avoid replacements [Go‑Parts rear quarter trim guide](https://www.go-parts.com/garage/interior-quarter-panel-trim-panel-mercedes-benz-gle-class-mercedes-benz-m-class-2012-2019).
+  - Door sills and entry ergonomics are generous for a midsize SUV — good for older passengers; check door check straps for wear on high‑use examples.
+- Electronics and battery behaviour:
+  - Electrical gremlins top the complaint lists for the M‑Class, especially infotainment and module faults. Intermittent 12V battery drain can show up if aftermarket devices were fitted or modules fail; check that all modules go to sleep after 30–60 minutes with doors closed — ask to test this with the vendor’s battery monitor or during a PPI (pre‑purchase inspection).
+  - COMAND/infotainment headaches: frozen or black screens, boot loops and Bluetooth pairing failures are repeatedly reported across W166 examples. Many cases are fixed by software resets or module replacement; some required dealer flash updates. Expect repair costs if the main head‑unit fails — search the forums for countless COMAND/MBUX freeze reports [BeefyTools Mercedes infotainment problems overview; MBWorld threads] [BeefyTools](https://beefytools.com/mercedes-infotainment-issues-common-problems-solutions/) [MBWorld forums](https://mbworld.org/forums/w166-m-class-gle-class-2012-2019.190/).
+  - Wireless charging modules and USB/phone interfaces have their own oddball faults on later Mercs; many are resolved by dealer software patches but parts replacement is not rare [Go‑Parts wireless charging report; Scantechy guide] [Go‑Parts wireless](https://www.go-parts.com/garage/wireless-device-charging-system-module-mercedes-benz-ml400-mercedes-benz-gl63-amg-mercedes-benz-2019-2025) [Scantechy](https://scantechy.com/mercedes-wireless-charging-not-working/).
+- Infotainment hardware:
+  - Screen sizes and hardware versions vary by trim and year. Higher trims get larger COMAND units; older W166 cars have smaller screens and older hardware that ages faster.
+
+Mechanically
+- General engineering reputation:
+  - Mercedes builds refined, complex engineering with high service expectations. That sophistication means the ML can be expensive if you leave maintenance for a rainy day. Repair frequency in the electrical and driveline categories drives owner claims data [MotorEasy reliability summary; RepairPal general brand data] [MotorEasy](https://motoreasy.com/mercedes-reliability/m-class) [RepairPal Mercedes overview](https://repairpal.com/mercedes-benz).
+- Security vulnerabilities:
+  - Modern Mercs have been subject to advanced theft techniques — CAN injection (“headlight hacking”) and OBD/diagnostic‑tool attacks have been used to bypass immobilisers by making the car think a genuine key is present. These attack vectors are documented by security researchers and covered in mainstream reporting — the remedy is physical/technical hardening: fit a mechanical steering lock, remove/signal‑block any aftermarket always‑on modules, and consider an aftermarket immobiliser or OBD‑secure box. See Ken Tindell’s CAN injection write‑up and wider reporting for details [Ken Tindell CAN injection blog; The Register summary] [Canis Automotive Labs write‑up](https://kentindell.github.io/2023/04/03/can-injection/) [The Register coverage](https://www.theregister.com/security/2023/04/06/how_thieves_steal_cars_using_vehicle_can_bus/).
+  - There are documented CVEs against certain Mercedes head‑unit firmware exposing local USB/connected‑device attack surfaces (example: NTG6 head‑unit CVE entry) — do not plug unknown USB drives into onboard systems [NVD CVE-2024-37603 entry].
+
+Engines
+- The W166 era (and the broader M‑Class line) used several engine families. Below are the main problem engines highlighted by owner reports and technical guides. Each subsection emphasises specific weak points and suggested maintenance intervals (use Australian service cadence — 10,000 km for oil/inspections vs 15,000 km where owners stretch service).
+
+  - *Bold component: **M272** (V6 petrol family)*  
+    - Failure points: balance‑shaft/idler gear and timing chain tensioner wear producing cold‑start rattles and incorrect cam timing, leading to misfires/engine codes; intake manifold and thermostat problems; oil leaks common. Community and specialist write‑ups demonstrate these faults can become catastrophic if ignored [FCP Euro comprehensive guide; 8020 Automotive summary] [FCP Euro M272/M273 guide](https://www.fcpeuro.com/blog/the-definitive-guide-to-the-mercedes-benz-m272-and-m273-engines) [8020 Automotive M272 problems](https://8020automotive.com/4-common-mercedes-m272-engine-problems/).
+    - Preventative maintenance: oil and filter every 10,000 km with a full inspection for timing chain noise at each service. If you buy an M272 car, budget early for timing chain idler gear replacement if rattle appears — this is not a DIY weekend job and can exceed several thousand dollars if the damage is advanced.
+  - *Bold component: **M273** (V8 petrol family)*  
+    - Failure points: similar to M272 — timing chain and balance shaft drive vulnerabilities; high cost to repair due to complexity and parts. See FCP Euro analysis for symptoms and repair paths [FCP Euro guide](https://www.fcpeuro.com/blog/the-definitive-guide-to-the-mercedes-benz-m272-and-m273-engines).
+    - Preventative maintenance: same 10,000 km oil schedule; be cautious of V8 models with high kilometres unless timing components have documented replacement.
+  - *Bold component: **OM642** (3.0L V6 diesel family — BlueTEC variants)*  
+    - Failure points: DPF (diesel particulate filter) clogging, turbocharger failures, EGR/DOC issues and associated sensors; injectors and high‑pressure fuel system items can be expensive to repair. Diesel high‑tech emissions gear means cheap‑running highway life can become expensive urban life if lots of short trips cause DPF regeneration issues [Mercedes Assistance OM642 guide](https://en.mercedesassistance.com/mercedes-om642-engine/).
+    - Preventative maintenance: service every 10,000 km; regular long runs at highway speed (if you’re a mostly‑city driver, avoid heavy diesel tech unless you can run highway regeneration often). Keep turbo/feed air and oil change intervals tight; monitor DPF pressure and soot levels.
+  - Note: W166 introduced newer engine variants (twin‑turbo V6s and family updates) after 2012 — many early‑2010s M272‑based cars will show the classic V6 weaknesses; pick a late‑W166 with written service history if you want to dodge legacy timing chain risk [Cars.com W166 redesign notes; Auto‑Data specs].
+
+Transmission
+- Behaviour and failure modes:
+  - The W166 uses the Mercedes 7‑speed torque‑converter automatic (7G‑Tronic) for many petrol/diesel combos. Known failure patterns include conductor plate/TCM electrical issues on some 7G implementations, torque‑converter shudder, slipping or whining on older 722‑series gearboxes in pre‑2010 platforms — owners report leaks or fluid degradation leading to mechanical wear. TCM conductor plate failures and clutch pack wear are commonly reported in the Mercedes community and specialist diagnostics outlets [ECU Testing 7G conductor plate failures; BenzWorld threads] [ECU Testing 7G‑Tronic faults](https://www.ecutesting.com/common-faults/mercedes/7g-tronic-transmission-problems/) [BenzWorld torque converter threads](https://www.benzworld.org/threads/transmission-torque-converter-issue.3112874/).
+  - Symptoms: hesitation from standstill, hard downshifts, slipping under load, and transmission warning lamps. Fluid change/flush and software updates can cure some issues; serious mechanical symptoms usually need an expensive rebuild or replacement.
+  - Preventative care: transmission fluid and filter service every 60–80,000 km (more frequent if towing), check for leaks and ensure software updates have been applied. Get any ‘shudder’ or slip diagnosed early.
+  - Newer 9‑speed boxes (post‑2016 GLE era) have their own shudder concerns — not common on W166 but worth knowing if you’re shopping across generations [Go‑Parts 9G shudder diagnostics](https://www.go-parts.com/garage/torque-converter-mercedes-benz-metris-mercedes-benz-e-class-mercedes-benz-cclass-2016-2023).
+
+#### 3. Should you buy a used Mercedes‑Benz M‑Class?
+
+- NSW dealer snapshot (live scraper data): Active listings: 2 — Price range: AUD $17,950 – $35,950 — Median price: AUD $26,950 — Year range: 2013–2014 — Median odometer: 2,013 km — Transmission mix: Sports Automatic: 2. (This market slice is your real‑time bargaining baseline — low supply in NSW means decent examples hold price.)
+- Depreciation and marketplace context:
+  - Mercedes vehicles typically depreciate heavily in early years — brand averages show ~46% depreciation at five years across Mercedes lines and model variance about the same band as other premium German rivals [CarEdge depreciation insights]. M‑Class specific valuations vary widely — appraisal tools (Edmunds/KBB) show trade‑in ranges a long way from retail depending on condition [Edmunds appraisal]. Across the used market, M‑Class asking prices vary hugely (examples online from sub‑$5k to $40k depending on age/condition) showing you can both get bargains and be fleeced on a poor‑condition car [CarGurus/Cargurus listings comparisons, TrueCar].
+  - For NSW local shoppers: your median price of ~$26,950 for a 2013–14 W166 with low kms implies dealers are listing well‑specified, low‑use cars. If the kilometers look suspiciously low (median 2,013 km in the snapshot) — insist on full dealer check, logbook, and CARFAX/PPSR checks.
+- TCO and fuel math (practical):
+  - Baseline fuel economy: a 2012 ML350 4MATIC returns ~20 MPG combined (≈11.8 L/100 km) per US EPA figures — translate that to Australian fuel prices (if petrol $1.80/L) and your fuel cost per 15,000 km is roughly: 15,000 km / 100 * 11.8 L * $1.80/L ≈ $3,186/year. If diesel ML350 BlueTEC can return, say, 8.5–9.5 L/100 km on mixed driving (real Aussie results vary), annual fuel outlay could be materially lower if you do high kilometres — but weigh that against DPF/turbo wear risks [FuelEconomy.gov ML‑Class data; MPG Buddy summary] [FuelEconomy.gov 2012 ML‑Class](https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&baseModel=ML-Class&make=Mercedes-Benz&pageno=1&srchtyp=ymm&year1=2012&year2=2012) [MPG Buddy ML350](https://mpgbuddy.com/cars/mercedes-benz/ml350-4matic/2012).
+  - Hybrid premium vs petrol/diesel: hybrids (ML450 Hybrid) typically carry a second‑hand premium and extra complexity. KBB analysis shows breakeven depends heavily on kilometres driven and fuel price; if you suburban commute <10,000 km/year, the hybrid premium rarely pays back within typical ownership cycles. Use a 5‑7 year TCO model (YOUCANIC and KBB offer calculators) and run your own km profile [KBB hybrid vs gas guide; YOUCANIC TCO tool] [KBB hybrid vs gas](https://www.kbb.com/car-advice/hybrid-vs-gas-break-even-fuel-savings/) [YOUCANIC TCO calculator](https://www.youcanic.com/total-cost-of-ownership-calculator/).
+  - Maintenance and repair expectations: plan for higher‑than‑mainstream service costs — genuine Merc parts and dealer labour are premium. Budget a surprise buffer of $1,500–$3,000/year for older luxury items (tyres, brakes, sensors, small electronics). Use the AAA/AFDC/YouCanic TCO calculators to model depreciation, fuel, servicing and insurance for your specific ownership window [AAA driving cost guide; AFDC vehicle cost calculator] [AAA driving cost estimates](https://www.aaa.com/autorepair/drivingcosts) [AFDC calculator](https://afdc.energy.gov/calc/).
+- Buying recommendation — who should buy and which variant to aim for:
+  - If you do long Australian highway runs and want torque/economy: ML350 BlueTEC (OM642) is sensible — better fuel per km and torque for towing — but only if the car has documented high‑speed runs, healthy DPF records and turbo service history. Avoid city‑only diesels unless you understand DPF regen behaviour [OM642 faults and advice](https://en.mercedesassistance.com/mercedes-om642-engine/).
+  - If you want a simpler life and fewer emissions complications: pick a petrol V6 but avoid older M272‑engined W164/W166 cars unless the timing chain/balance shaft work has been done and you have receipts. The M272 and M273 reputation for balance‑shaft/timing chain idler wear is a red flag: if you see an M272 example with no paperwork and more than 100,000 km, budget for a major job [FCP Euro M272/M273 guide](https://www.fcpeuro.com/blog/the-definitive-guide-to-the-mercedes-benz-m272-and-m273-engines).
+  - For best value in NSW market today (based on the supplied listing range AUD $17,950 – $35,950; median $26,950): aim for a 2013–2014 W166 ML350 (post‑2012 facelift) with full service history, preferably an independently inspected unit with recent transmission fluid service, ADAS calibrations recorded, and no outstanding recalls. That model year/diesel/petrol mix is the financial sweet spot — late enough to have the 7‑speed standard and many software fixes applied, old enough to have taken depreciation hit. Dealers asking toward the lower end often have undisclosed issues; the median price is the better marker for a serviced vehicle.
+  - Specific “buy/avoid” call:
+    - Buy: 2013–2014 ML350 (W166) with full logbook, known service stamps, recorded ADAS calibrations, clean PPSR, and documented timing chain work if it’s an M272. A low‑km diesel BlueTEC with verified long‑run patterns is ideal if your annual km >15,000.
+    - Avoid: Early‑2006–2011 W164 cars with M272 engines and no timing chain documentation; MLs with intermittent COMAND failures but no recent head‑unit/firmware history; cars with patched panels (mismatched gaps/overspray) and no repair invoices.
+- Final blunt reality check:
+  - Buying a used Mercedes M‑Class is buying refinement and complexity. If you accept the maintenance budget and insist on full paperwork — you’ll get a plush, comfortable, safe midsize SUV that’s still a notch above mainstream rivals in materials and driving comfort. If you want cheap ownership with minimal surprises, look at Lexus RX alternatives — less drama, slower depreciation pain, cheaper repairs.
+  - Do not buy sight unseen. Pay for a qualified Mercedes‑savvy PPI, insist on a VIN CARFAX/PPSR check, and get the dealer to show recent dealer software/recall work. For theft protection, fit a mechanical steering lock and consider an OBD‑port lockbox — modern criminal techniques make security a real issue [Canis/Ken Tindell CAN injection write‑up; NVD CVE info] [Canis write‑up](https://kentindell.github.io/2023/04/03/can-injection/) [NVD CVE-2024-37603](https://nvd.nist.gov/vuln/detail/CVE-2024-37603).
+
+Sources
+- Mercedes‑Benz GLE / M‑Class lineage: https://en.wikipedia.org/wiki/Mercedes-Benz_GLE
+- Vehicle/product spec resources: https://www.auto-data.net/en/mercedes-benz-m-class-model-1379, https://www.ultimatespecs.com/car-specs/Mercedes-Benz-models/Mercedes-Benz-M-Class
+- 2012 redesign & drivetrain notes: https://www.cars.com/research/mercedes_benz-m_class/
+- M272/M273 engine faults (balance shaft/timing chain): https://www.fcpeuro.com/blog/the-definitive-guide-to-the-mercedes-benz-m272-and-m273-engines, https://8020automotive.com/4-common-mercedes-m272-engine-problems/
+- OM642 diesel guide and common issues: https://en.mercedesassistance.com/mercedes-om642-engine/
+- Infotainment/COMAND faults: https://beefytools.com/mercedes-infotainment-issues-common-problems-solutions/, https://mbworld.org/forums/w166-m-class-gle-class-2012-2019.190/
+- Rear quarter interior trim rattles and DIY fixes: https://www.go-parts.com/garage/interior-quarter-panel-trim-panel-mercedes-benz-gle-class-mercedes-benz-m-class-2012-2019
+- ADAS/radar issues and troubleshooting: https://www.mercedesmedic.com/mercedes-radar-sensor-problems-solutions/, https://www.mbusa.com/en/driver-assistance-features
+- 7G‑Tronic conductor plate / transmission faults: https://www.ecutesting.com/common-faults/mercedes/7g-tronic-transmission-problems/, https://www.benzworld.org/threads/transmission-torque-converter-issue.3112874/
+- Panel gaps and clear coat owner reports: https://mbworld.org/forums/c218/914283-these-panel-gaps-normal.html, https://www.benzworld.org/threads/clear-coat-peeling-off.1614732/
+- CAN bus / CAN injection theft techniques: https://kentindell.github.io/2023/04/03/can-injection/, https://www.theregister.com/security/2023/04/06/how_thieves_steal_cars_using_vehicle_can_bus/
+- Head‑unit CVE and firmware vulnerability: https://nvd.nist.gov/vuln/detail/CVE-2024-37603
+- Fuel economy & baseline mpg: https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&baseModel=ML-Class&make=Mercedes-Benz&pageno=1&srchtyp=ymm&year1=2012&year2=2012, https://mpgbuddy.com/cars/mercedes-benz/ml350-4matic/2012
+- TCO and hybrid vs petrol analysis: https://www.kbb.com/car-advice/hybrid-vs-gas-break-even-fuel-savings/, https://www.youcanic.com/total-cost-of-ownership-calculator/, https://afdc.energy.gov/calc/
+- Depreciation context: https://caredge.com/mercedes-benz/depreciation, https://www.edmunds.com/mercedes-benz/m-class/2015/appraisal-value/
+- NSW dealer snapshot: provided in user data (Active listings: 2; Price range: AUD $17,950 – $35,950; Median price: AUD $26,950; Year range: 2013 – 2014; Median odometer: 2,013 km; Transmission mix: Sports Automatic: 2).
+
+Final line — no fluff: treat a used M‑Class like a fine instrument. It’s rewarding if you accept routine merc bills and do your homework; it will bite you if you buy cheap and hope for the best.

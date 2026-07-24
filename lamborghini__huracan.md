@@ -1,0 +1,129 @@
+---
+title: "Lamborghini Huracan Used Car Buyer's Guide"
+make: Lamborghini
+model: Huracan
+description: "Comprehensive used car review for the Lamborghini Huracan — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+locale: en-AU
+canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lamborghini__huracan.md"
+topic_type: buyers-guide
+last_updated: "2026-07-24"
+active_listings_nsw: 1
+median_price_aud: 399990
+price_range_aud: "AUD $399,990 – $399,990"
+year_range: "2017 – 2017"
+median_odometer_km: 10774
+keywords: [lamborghini, huracan, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Lamborghini, Huracan]
+---
+
+#### 1. Introduction & Market Positioning
+- What you’re looking at: the Lamborghini Huracán (first generation, production 2014–2024). This family includes coupe and convertible body styles and a long parade of special editions that grew out of the same V10 platform. [Lamborghini](https://www.lamborghini.com/en-en/history/huracan) and [Wikipedia](https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n) cover the run and chronology.
+- Internal/model shorthand you’ll see in ads: **LP610‑4**, **LP580‑2**, plus later Evo, Performante, STO, Tecnica and Sterrato derivatives (the names crop up everywhere in registries and dealer lists) — the numerical prefixes reference target power/output and drive layout. See the model summary on Lamborghini’s history page and the registry entries for the family tree: [Lamborghini Huracán history](https://www.lamborghini.com/en-en/history/huracan), [Lamborghini Registry](https://www.lamborghiniregistry.com/lamborghini-models/huracan).
+- Position in the range: the Huracán sat above the Gallardo it replaced and below Lamborghini’s flagship Aventador in the product ladder; it was the brand’s mainstream V10 supercar offering for buyers who wanted supercar theatre but a bit more daily usability than Aventador extremes. (Context: Lamborghini model list: [Lamborghini models](https://www.lamborghini.com/en-en/models).)
+- Shared architecture and parts commonality: Huracáns share a lot with the contemporary Audi R8 (items such as hood hinges and certain drivetrain/shared engineering elements), and the gearbox family is shared between Huracán and R8 variants — this matters for parts sourcing and specialist knowledge. See hood‑hinge/fitment notes and transmission family discussion: [Go‑Parts hood hinge guide](https://www.go-parts.com/garage/hood-hinge-lamborghini-hurac-n-audi-r8-2014-2024), [Heffner on DL800 transmissions](https://heffnerperformance.com/lamborghini-huracan-audi-r8-dl800-transmissions/).
+- Engines, outputs, transmissions and drivetrains sold in Australia (summary from official specs & media):
+  - Core engine: 5.2‑litre naturally aspirated V10 (the only petrol engine for the Huracán family across years), in variants tuned from roughly LP580 to LP640+ power depending on model and edition. Official model pages and press materials confirm the 5.2L V10 across the range: [Lamborghini models/specs](https://www.lamborghini.com/en-en/models/huracan), [MotorTrend summary](https://www.motortrend.com/cars/lamborghini/huracan).
+  - Transmission: 7‑speed Lamborghini Doppia Frizione (LDF) dual‑clutch transmission — a wet‑clutch DCT (Graziano/DL800 family) for most models. See transmission tech notes: [CarStereoWiki: Huracán transmission](https://carstereowiki.com/lamborghini-huracan-transmission/), [Heffner DL800 note](https://heffnerperformance.com/lamborghini-huracan-audi-r8-dl800-transmissions/).
+  - Drive layouts: AWD on most earlier LP610‑4/Evo spec cars; RWD was offered on some later variants (LP580‑2 and certain Tecnica/track derivatives) depending on trim.
+- Marketplace rivals in Australia: Porsche 911 (GT3 and Turbo territory), McLaren mid‑engine line (Artega/570‑class equivalents, later Artura comparisons), Ferrari V8 models (F8/488 territory), Chevrolet Corvette (as a value‑alternative in performance terms), Aston Martin Vantage — local comparison pages list the usual suspects: [CarsGuide rivals list](https://www.carsguide.com.au/lamborghini/huracan/vs).
+
+#### 2. What goes wrong with a used Lamborghini Huracan?
+
+Exterior
+- Panel fit and alignment: expect to find “fussy” gaps and hinge‑related issues if the car has been hit or dropped from jacking/towing. The Huracán/Audi R8 hood hinge geometry is notorious enough that a bent hinge or damaged rear bumper support brackets will show as uneven gaps — inspect hinges and rear bumper mounts carefully for evidence of impact repairs. See fitment/hinge detail: [Go‑Parts hood hinge guide](https://www.go-parts.com/garage/hood-hinge-lamborghini-hurac-n-audi-r8-2014-2024) and rear bumper bracket notes: [Go‑Parts rear bracket info](https://www.go-parts.com/garage/rear-bracket-plate-panel-set-lamborghini-hurac-n-2014-2024).
+- Paint and stone‑chips: factory paint can be soft and high‑impact zones (front splitter, lower bumper, sills) are prone to chipping. Many owners apply PPF (paint protection film) — it’s common and generally good advice for Australian roads. Reference PPF guidance for Lamborghinis: [North Tints PPF guide](https://northtints.com/blogs/ppf/lamborghini-ppf).
+- Trim vulnerabilities: gloss black plastics, exposed carbon bits and painted inserts scratch easily; OEM replacement parts are expensive and paint/AdPersonam finishes can be tricky to match.
+- Body recalls and ADAS quirks: the Huracán has had a number of recall campaigns across model years (electrical, body components and infotainment/adaptive lighting items). Lamborghini’s recall portal and compiled recall trackers list campaigns through the model life: [Lamborghini recall campaign hub](https://www.lamborghini.com/en-en/ownership/recall-campaign), [recall aggregation (NHTSA summary)](https://recallexplained.com/lamborghini/huracan/). Note: there were recalls tied to infotainment software/lighting interactions — see the CarComplaints write‑up about infotainment/headlight software recalls for affected years: [CarComplaints: infotainment recall story](https://www.carcomplaints.com/news/2023/lamborghini-huracan-recall-infotainment-software.shtml).
+
+Interior
+- Infotainment and clusters: the EVO/STO generation infotainment and instrument cluster have documented failures — black screens, freezing, intermittent Bluetooth/CarPlay drops and backup‑camera blackouts. Forum accounts and reliability writeups show owners sometimes waiting weeks for dealer‑side software flashes or module replacements. Expect to check that the unit works fully (wired/wireless CarPlay if present), that the instrument cluster hasn’t “gone black” and that the rear camera/parking sensors function. See aggregated owner summaries and troubleshooting threads: [CarChecker: infotainment problems](https://www.carchecker.pro/reports/lamborghini_huracan_evo_sto.html), [Lamborghini‑Talk forum thread](https://www.lamborghini-talk.com/threads/2024-huracan-sterrato-infotainment-system-issues.238277/).
+- Cabin wear under heavy use: Huracán cabins are exotic but not indestructible. If the car’s been used for track days or high‑mileage spirited running, check seat bolsters (leather wear/stitching), pedal pad wear, and scuffed headliners. Rideshare/taxi duty? Not a realistic use case for a Huracán — if you see odd interior wear inconsistent with low odometer numbers, ask why.
+- Accessibility details: low sills and wide door apertures look dramatic but mean heel scuffs and cautious entry/exit — more important for daily practicality notes than mechanical risk.
+- Electrical behaviour: owners report battery drain and module faults in aged examples; combined with BCM problems (next section) this can present as intermittent lock/unlock, interior lights staying on or a flat 12‑V. Check vehicle history for jump‑starts and had the 12‑V replaced recently. See BCM failure discussions: [Go‑Parts: BCM issues](https://www.go-parts.com/garage/body-control-module-audi-r8-lamborghini-huracan-2015-2024).
+
+Mechanically
+- General engineering reputation: the Huracán’s mechanical package — chassis, naturally aspirated V10 and DCT — is widely regarded as robust for a modern supercar, particularly compared with the older Gallardo-era automated manuals. But “robust” doesn’t mean cheap to fix; exotic parts, labour and diagnostics all cost significantly more than mainstream cars. Background context on evolution and reputation: [Wikipedia Huracán overview](https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n).
+- Electrical and module faults: Body Control Module (BCM) issues and related CAN bus electrical gremlins have been flagged by owners and parts houses — symptoms include failed lights, intermittent wipers, lock/unlock failures, and in some reports no‑start conditions. If the BCM has been replaced, check for genuine dealer parts and programming records: [Go‑Parts BCM write‑up](https://www.go-parts.com/garage/body-control-module-audi-r8-lamborghini-huracan-2015-2024), recall aggregation: [recallexplained](https://recallexplained.com/lamborghini/huracan/).
+- Theft/security: high‑value Lambos attract organised thieves. Modern attack vectors (CAN‑bus injection via accessible wiring points) are real threats — criminals have exploited headlight/wiring access points on a variety of cars to inject unlock/start messages. For exotics, fit a rated digital immobiliser (dual‑CAN solutions, IGLA or Autowatch Ghost Pro are marketed for Lamborghinis). See the technical background on CAN injection and product solutions: Ken Tindell’s CAN injection primer and reporting: [Can‑CIA primer on CAN injection](https://kentindell.github.io/2023/04/03/can-injection/), [Autowatch Ghost Pro product page](https://www.carsoundsecurity.com/product/ghost-pro-dual-can-bus-immobiliser-by-autowatch-for-lamborghini-fully-fitted/), [IGLA anti‑theft overview](https://www.iglausa.com/igla-anti-theft).
+- Aftermarket spoilers and ECU tunes: avoid cars with non‑dealer ECU tunes or unknown downpipes — power upgrades on NA V10s can accelerate wear and complicate service/insurance. Always confirm warranty and service acceptance with the Lamborghini dealer if a modification exists.
+
+Engines
+- Every engine/variant you’ll read about in ads is a flavour of the same 5.2‑litre naturally aspirated V10. Below are the principal badges you’ll see — each is an italicised, focused callout.
+
+  *5.2 L V10 (base architecture — common to LP610‑4 / LP580‑2 / Evo / Performante / STO / Tecnica / Sterrato)*  
+  - What it is: a naturally aspirated 5.2‑litre V10 developed for Lamborghini’s mid‑engine cars; retained across Huracán derivatives for the model life. Official model specs confirm the single displacement and V10 architecture: [Lamborghini technical page](https://www.lamborghini.com/en-en/history/huracan).  
+  - Known weak points: there isn’t a mass of owner literature pointing to catastrophic internal V10 failures — it’s generally robust — but be vigilant for oil leaks from valve‑cover gaskets, external coolant hose issues and any service history gaps. Do not accept unknown/absent engine service stamps; the V10 is an expensive mill to repair if neglected. (General owner issue compilations and service cost context: [CarStereoWiki common faults](https://carstereowiki.com/most-common-problems-with-lamborghini-huracan/), [VinCheckEngine problems summary](https://vincheckengine.com/problems/lamborghini/huracan).)
+  - Maintenance rhythm: Lamborghini factory care packages typically encourage regular servicing; expect high‑quality oils, filter replacements and inspection items at dealer intervals — track use requires more frequent consumable replacement (brakes, fluids). Confirm exact factory intervals on the car’s service book or with a dealer before purchase.
+
+  *LP610‑4*  
+  - The ‘610’ badge historically signposted the higher‑output AWD models. Mechanically similar to other V10s but sold as a more performance‑tilted option — expect the same maintenance caveats and the common DCT stresses associated with spirited use.
+
+  *LP580‑2*  
+  - The 580‑2 is the rear‑wheel‑drive, slightly lower‑output sibling — simpler driveline layout but often desirable for purists. Because it’s RWD, track use and clutch wear can be more pronounced if the owner liked big slides.
+
+  *Evo / Performante / STO / Tecnica*  
+  - These are increasingly track‑biased or performance‑tuned iterations of the same V10. They deliver higher outputs, lighter components and frequently different aerodynamic loads. Track‑use wear (brakes, suspension bearings, tyres, clutch/DCT thermal cycling) is amplified — ask for track history. On some model years there were transmission oil/clutch related service campaigns for Evo/STO types — check the recall/technical bulletin lists: [vincheckengine: Huracán recalls & failures](https://vincheckengine.com/recalls/lamborghini/huracan).
+
+Transmission
+- The Huracán uses a 7‑speed dual‑clutch transmission (Lamborghini Doppia Frizione, LDF) — a wet‑clutch DCT in the Graziano/DL800 family. That means lightning‑quick shifts and superb on‑track performance, but the mechanical architecture is complex and expensive to service. See technical discussion and shop examples: [CarStereoWiki DCT overview](https://carstereowiki.com/lamborghini-huracan-transmission/), [AMS Performance DCT service case study](https://www.amsperformance.com/blog/2020/10/15/huracan-r8-dct-trans-service/).
+- Known failure modes:
+  - Valve‑body/control hydraulic issues and clutch wear/slippage can occur — symptoms include jerky or delayed engagement, limp‑home modes and warning lights. Garage service writeups describe valve body repair/replacement as a common fix on cars with severe issues: [AMS Performance DCT service](https://www.amsperformance.com/blog/2020/10/15/huracan-r8-dct-trans-service/).
+  - Transmission rebuilds are expensive and require specialist shops with experience on the Graziano family boxes — do not assume a cheap swap; factor specialist labour and parts lead times into cost expectations: [Heffner on DL800 transmissions](https://heffnerperformance.com/lamborghini-huracan-audi-r8-dl800-transmissions/).
+- Practical check at purchase: test the gearbox in warm and cold conditions; run both gentle and hard pulls; verify there are no lingering transmission-related service lights and review the service history for transmission oil/filter changes or technical bulletins.
+
+#### 3. Should you buy a used Lamborghini Huracan?
+
+NSW dealer snapshot (live sample)
+- Active NSW dealer listings in the current MTA NSW scrape: 1 listing.  
+- Price range / ceiling: AUD $399,990 (single listing).  
+- Year range: 2017 (the listing in the scrape).  
+- Median odometer: 10,774 km.  
+- Transmission mix: Automatic: 1. (You gave the live snapshot — use it as the market example.)
+
+Pricing and depreciation
+- Current entry point in NSW dealer market from your snapshot: AUD $399,990 (2017, ~10,774 km). That’s a high‑value listing for a 2017 example, but Huracán pricing is all over the shop depending on spec, provenance and how much AdPersonam leather it’s wearing.
+- Depreciation reality check: published calculators and market analyses vary — one depreciation tool estimates ~17% loss over the first three years for a Huracán when new, while independent trackers have placed 3‑year falls in the 25–35% range depending on variant and rarity. In short: Huracáns can hold value better than many luxury GTs, but not all years/editions behave the same on residual charts. Sources: [TheMoneyCalculator depreciation tool](https://www.themoneycalculator.com/vehicle-finance/calculators/car-depreciation-by-make-and-model/LAMBORGHINI/HURACAN/), market note from [AutoMonitor on depreciation ranges](https://automonitor.io/blog/how-fast-do-lamborghinis-depreciate/).
+- What to expect over 3–5 years: normal Huracán ownership still shows significant residual variability — collectability (limited runs like STO/Performante) can protect/raise prices; otherwise expect mid‑tens to low‑thirties percent drops in the early years on typical examples: see market trend pages: [CarGurus Huracán trends](https://www.cargurus.com/research/price-trends/Lamborghini-Huracan-d2285).
+
+Total cost of ownership (TCO) strategy — how to estimate for Australia
+- Fuel: Huracán combined figures are brigade‑dependent, commonly in the high single digits to low teens L/100km depending on trim (published ranges show ~8.9–13.8 L/100km across various model years/uses). Use that as your fuel baseline: [Analyticauto fuel data summary](https://analyticauto.com/all/lamborghini/huracan/fuel).
+  - Simple worked example (DIY maths, not a dealer promise): at 10,000 km/year and 12 L/100 km (typical combined for a performance driving mix) you’ll consume 1,200 L/year. Multiply by your local 98 RON petrol price to get annual fuel spend — plug the numbers in rather than relying on someone else’s round figures.
+- Service and consumables: expect premium dealer labour rates and expense for items like brake discs/pads (fast wear in track/spirited use), tyres (supercar tyres are expensive), and fluids. Published breakdowns of “real” Huracán ownership show a very wide annual ownership range depending on usage — Exotic Motors’ owner cost primer gives a rough annual spread of AUD $18,000–$65,000 depending on insurance, servicing, depreciation and usage intensity — a useful reminder that your costs will be driven by how you drive: [Exotic Motors ownership cost estimate](https://exoticmotors.com/the-real-cost-to-own-a-lamborghini-huracan-for-12-months-insurance-maintenance-depreciation/).
+- Insurance: expect high premiums for high performance exotics in Australia — get quotes before you commit.
+- Hybrid/EV premiums vs fuel saving: Lamborghini itself is moving to electrified solutions and the Huracán’s successor is reported as a hybrid/twin‑turbo V8 PHEV concept, which may change long‑term resale and running‑cost math. That successor won’t make the used V10 automatically “bad value” — but hybrids or EVs mean different servicing regimes and different depreciation/risk equations. See successor reporting: [MotorTrend on successor hybrid report](https://www.motortrend.com/news/2026-lamborghini-huracan-supercar-replacement-future-cars).
+  - Bottom line: for a typical Australian driver the fuel savings from a hybrid/plug‑in make more sense if you spend most time in urban stop/start traffic and can access cheap electricity. For most Huracán buyers in Australia, who buy these cars for performance and image first, the V10’s character is often the dominant purchase reason — so the fuel premium is accepted as part of the lifestyle choice.
+- TCO takeaways: run the numbers yourself using an annual‑km baseline, L/100km expectation (8.9–13.8 L/100km range), your local fuel price, specialist service price estimates and insurance quotes. Tools like the AFDC/Vehicles calculators and comparative hybrid calculators help model break‑evens, but that’s a framework — not a replacement for a dealer/service quote: [AFDC vehicle calculator](https://afdc.energy.gov/calc/), [FuelEconomy hybrid comparison tool](https://www.fueleconomy.gov/feg/hybridCompare.jsp).
+
+Should you buy this one (short answer)
+- If your personal budget comfortably absorbs: purchase price (~AUD $399,990 in the NSW snapshot), above‑average insurance, specialist servicing and track/tyre/brake consumables — and you want the V10 soundtrack and the theatre — yes, buy one. But buy carefully.
+- The deal specifics from your NSW snapshot: a single 2017 listing at AUD $399,990 with ~10,774 km suggests a low‑km example priced at a premium. That’s attractive to collectors and low‑mileage buyers, but you must verify full dealer service history, that all recall campaigns have been completed (use Lamborghini’s recall portal and VIN checks) and that the driveline and electronics are clean.
+- Which years/trim to prefer: if you want everyday usability and the classic V10 feel, go for low‑odometer LP610‑4/LP580‑2 cars that have full Lamborghini dealer service history. If you want track‑excitement and are happy with more frequent consumables, an STO/Performante will be more thrilling but will cost more to run and may depreciate differently. Practically speaking for value in the used market, a well‑maintained 2016–2018 LP610/LP580 example with full dealer documentation and no aftermarket engine/ECU mods is the financial “sweet spot” — you get much of the V10 experience without some of the sticker shock of special‑edition pricing.
+- Non‑negotiables before transfer:
+  - Full Lamborghini dealer service history (dates, kilometres, VIN‑matched parts). Check that any recall campaigns listed against the VIN are completed — use Lamborghini’s recall portal: [Lamborghini recall campaign hub](https://www.lamborghini.com/en-en/ownership/recall-campaign).
+  - Transmission health: clear evidence of proper DCT service, no limp or fault codes, no rough engagement. If possible, get a specialist inspection by a shop that knows Graziano/DL800 boxes: [AMS Performance DCT service notes](https://www.amsperformance.com/blog/2020/10/15/huracan-r8-dct-trans-service/).
+  - Evidence of electrical/infotainment reliability (screens, cameras, cluster) and no history of repeated module swaps: see owner reliability reports: [CarChecker infotainment issues](https://www.carchecker.pro/reports/lamborghini_huracan_evo_sto.html).
+  - Security: confirm a modern immobiliser/digital solution has been fitted, or budget for one. Consider dual‑CAN immobilisers or IGLA/Autowatch products for modern theft mitigation: [Autowatch Ghost Pro](https://www.carsoundsecurity.com/product/ghost-pro-dual-can-bus-immobiliser-by-autowatch-for-lamborghini-fully-fitted/).
+
+Final recommendation — be blunt: buy if you understand the costs and love the V10
+- If you’re chasing the V10 soundtrack, theatre and exclusivity and you can afford the full ownership equation (purchase price + insurance/service/tyres/consumables), a low‑kilometre 2016–2018 Huracán with dealer history is a smart used buy — relative rarity, V10 character and still‑reasonable market prices make it an easy love affair. The 2017 example at AUD $399,990 and ~10,774 km from the NSW snapshot could be a very tidy purchase — but only if it passes the checks above.
+- Don’t buy anything without a specialist pre‑purchase inspection that includes a transmission check, electronics/BCM scan, and confirmation that recalls and software campaigns have been completed. If the vendor balks at full service records or avoids specialist inspection — walk.
+- If you’re buying purely as an investment: rare, limited‑run Huracán versions (STO, Performante, low‑production AdPersonam cars) are more likely to hold or appreciate — but they come at a collector premium and their ownership bills are not lighter.
+
+Sources
+- Lamborghini official model and history pages: https://www.lamborghini.com/en-en/history/huracan, https://www.lamborghini.com/en-en/models/huracan  
+- Wikipedia Huracán overview: https://en.wikipedia.org/wiki/Lamborghini_Hurac%C3%A1n  
+- MotorTrend Huracán coverage and successor reporting: https://www.motortrend.com/cars/lamborghini/huracan, https://www.motortrend.com/news/2026-lamborghini-huracan-supercar-replacement-future-cars  
+- Go‑Parts hood hinge and BCM discussions: https://www.go-parts.com/garage/hood-hinge-lamborghini-hurac-n-audi-r8-2014-2024, https://www.go-parts.com/garage/body-control-module-audi-r8-lamborghini-huracan-2015-2024  
+- PPF & paint risk advice: https://northtints.com/blogs/ppf/lamborghini-ppf  
+- Infotainment and instrument cluster owner reports: https://www.carchecker.pro/reports/lamborghini_huracan_evo_sto.html, https://www.lamborghini-talk.com/threads/2024-huracan-sterrato-infotainment-system-issues.238277/  
+- Infotainment/headlight recall write‑up: https://www.carcomplaints.com/news/2023/lamborghini-huracan-recall-infotainment-software.shtml  
+- DCT/transmission service and technical notes: https://carstereowiki.com/lamborghini-huracan-transmission/, https://www.amsperformance.com/blog/2020/10/15/huracan-r8-dct-trans-service/, https://heffnerperformance.com/lamborghini-huracan-audi-r8-dl800-transmissions/  
+- Recall aggregators and complaint trackers: https://recallexplained.com/lamborghini/huracan/, https://vincheckengine.com/recalls/lamborghini/huracan  
+- CAN bus injection and theft mitigation background: https://kentindell.github.io/2023/04/03/can-injection/, https://www.autoblog.com/carbuying/vehicle-headlight-can-bus-injection-theft-method-update (reporting of attack style), Autowatch product: https://www.carsoundsecurity.com/product/ghost-pro-dual-can-bus-immobiliser-by-autowatch-for-lamborghini-fully-fitted/ , IGLA: https://www.iglausa.com/igla-anti-theft  
+- Fuel consumption and MPG compilations: https://analyticauto.com/all/lamborghini/huracan/fuel, https://www.autopadre.com/gas-mileage/lamborghini-huracan  
+- Depreciation and market analysis: https://www.themoneycalculator.com/vehicle-finance/calculators/car-depreciation-by-make-and-model/LAMBORGHINI/HURACAN/, https://automonitor.io/blog/how-fast-do-lamborghinis-depreciate/, https://www.cargurus.com/research/price-trends/Lamborghini-Huracan-d2285  
+- Ownership cost primer: https://exoticmotors.com/the-real-cost-to-own-a-lamborghini-huracan-for-12-months-insurance-maintenance-depreciation/  
+
+If you want, I’ll:
+- draft a 12‑point pre‑purchase inspection checklist you can print and take to a dealer, and  
+- run a quick value check across Australian listings (Melbourne, Sydney, Brisbane) and shortlist examples that pass the basic criteria (full dealer history, receipts for major services, ECU untouched).
