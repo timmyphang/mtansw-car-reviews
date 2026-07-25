@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the BMW X7 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x7.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 159880
 price_range_aud: "AUD $159,880 – $159,880"

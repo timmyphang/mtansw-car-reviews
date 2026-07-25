@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Honda HR-V — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__hr-v.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
+last_updated: "2026-07-25"
+active_listings_nsw: 19
 median_price_aud: 22995
-price_range_aud: "AUD $22,995 – $22,995"
-year_range: "2021 – 2021"
-median_odometer_km: 33397
+price_range_aud: "AUD $16,987 – $35,990"
+year_range: "2015 – 2024"
+median_odometer_km: 40980
 keywords: [honda, hr-v, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Honda, HR-V]
 ---

@@ -1,19 +1,19 @@
 ---
-title: "Lexus Es Used Car Buyer's Guide"
+title: "Lexus ES Used Car Buyer's Guide"
 make: Lexus
-model: Es
-description: "Comprehensive used car review for the Lexus Es — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: ES
+description: "Comprehensive used car review for the Lexus ES — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__es.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 49932
+price_range_aud: "AUD $44,990 – $78,932"
+year_range: "2019 – 2025"
+median_odometer_km: 67537
 keywords: [lexus, es, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Lexus, Es]
+breadcrumb: [Australian Used Car Reviews, Lexus, ES]
 ---
 
 #### 1. Introduction & Market Positioning

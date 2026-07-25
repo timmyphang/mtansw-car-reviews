@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Renault Kangoo — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__kangoo.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 18950
-price_range_aud: "AUD $18,950 – $18,950"
-year_range: "2021 – 2021"
-median_odometer_km: 18321
+last_updated: "2026-07-25"
+active_listings_nsw: 5
+median_price_aud: 39990
+price_range_aud: "AUD $18,950 – $42,490"
+year_range: "2016 – 2025"
+median_odometer_km: 22
 keywords: [renault, kangoo, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Renault, Kangoo]
 ---

@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volvo Ex30 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__ex30.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 61015
 price_range_aud: "AUD $59,888 – $62,142"

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Jeep Cherokee — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__cherokee.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 16490
+last_updated: "2026-07-25"
+active_listings_nsw: 5
+median_price_aud: 11990
 price_range_aud: "AUD $0 – $24,888"
 year_range: "2014 – 2020"
-median_odometer_km: 103737
+median_odometer_km: 103333
 keywords: [jeep, cherokee, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Cherokee]
 ---

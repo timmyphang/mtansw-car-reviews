@@ -1,19 +1,19 @@
 ---
-title: "Lexus Is Used Car Buyer's Guide"
+title: "Lexus IS Used Car Buyer's Guide"
 make: Lexus
-model: Is
-description: "Comprehensive used car review for the Lexus Is — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: IS
+description: "Comprehensive used car review for the Lexus IS — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__is.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 25932
+price_range_aud: "AUD $25,932 – $25,932"
+year_range: "2016 – 2016"
+median_odometer_km: 117082
 keywords: [lexus, is, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Lexus, Is]
+breadcrumb: [Australian Used Car Reviews, Lexus, IS]
 ---
 
 #### 1. Introduction & Market Positioning

@@ -1,19 +1,19 @@
 ---
-title: "Mercedes Benz S Class Used Car Buyer's Guide"
-make: Mercedes Benz
-model: S Class
-description: "Comprehensive used car review for the Mercedes Benz S Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+title: "Mercedes-Benz S-Class Used Car Buyer's Guide"
+make: Mercedes-Benz
+model: S-Class
+description: "Comprehensive used car review for the Mercedes-Benz S-Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__s-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
-keywords: [mercedes benz, s class, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mercedes Benz, S Class]
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 130000
+price_range_aud: "AUD $130,000 – $130,000"
+year_range: "2019 – 2019"
+median_odometer_km: 39565
+keywords: [mercedes-benz, s-class, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, S-Class]
 ---
 
 #### 1. Introduction & Market Positioning

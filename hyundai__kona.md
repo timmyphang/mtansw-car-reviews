@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Kona — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__kona.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 22990
-price_range_aud: "AUD $22,990 – $22,990"
-year_range: "2021 – 2021"
-median_odometer_km: 62854
+last_updated: "2026-07-25"
+active_listings_nsw: 98
+median_price_aud: 34295
+price_range_aud: "AUD $15,990 – $60,990"
+year_range: "2000 – 2026"
+median_odometer_km: 2158
 keywords: [hyundai, kona, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Kona]
 ---

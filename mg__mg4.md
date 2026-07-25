@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the MG Mg4 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg4.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 6
 median_price_aud: 29950
 price_range_aud: "AUD $28,950 – $34,990"

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the MG HS — reliability, commo
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__hs.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 19
+last_updated: "2026-07-25"
+active_listings_nsw: 22
 median_price_aud: 18990
 price_range_aud: "AUD $17,990 – $28,990"
-year_range: "2022 – 2025"
-median_odometer_km: 37869
+year_range: "2021 – 2025"
+median_odometer_km: 37833
 keywords: [mg, hs, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, MG, HS]
 ---

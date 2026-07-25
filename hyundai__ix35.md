@@ -1,19 +1,19 @@
 ---
-title: "Hyundai iX35 Used Car Buyer's Guide"
+title: "Hyundai Ix35 Used Car Buyer's Guide"
 make: Hyundai
-model: iX35
-description: "Comprehensive used car review for the Hyundai iX35 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: Ix35
+description: "Comprehensive used car review for the Hyundai Ix35 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__ix35.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 10995
-price_range_aud: "AUD $10,995 – $10,995"
-year_range: "2011 – 2011"
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 14990
+price_range_aud: "AUD $10,995 – $17,990"
+year_range: "2011 – 2015"
 median_odometer_km: 43397
 keywords: [hyundai, ix35, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Hyundai, iX35]
+breadcrumb: [Australian Used Car Reviews, Hyundai, Ix35]
 ---
 
 #### 1. Introduction & Market Positioning

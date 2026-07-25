@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Chery Tiggo 8 Pro Max — re
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-8-pro-max.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 5
 median_price_aud: 30880
 price_range_aud: "AUD $0 – $34,880"

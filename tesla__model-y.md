@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Tesla Model Y — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/tesla__model-y.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 41964
 price_range_aud: "AUD $39,930 – $43,999"

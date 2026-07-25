@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the SKODA Kodiaq — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__kodiaq.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
+last_updated: "2026-07-25"
+active_listings_nsw: 3
 median_price_aud: 29950
-price_range_aud: "AUD $29,950 – $29,950"
-year_range: "2020 – 2020"
+price_range_aud: "AUD $19,990 – $29,990"
+year_range: "2019 – 2021"
 median_odometer_km: 90132
 keywords: [skoda, kodiaq, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, SKODA, Kodiaq]

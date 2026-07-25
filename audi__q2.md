@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Audi Q2 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q2.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 32950
 price_range_aud: "AUD $32,950 – $32,950"

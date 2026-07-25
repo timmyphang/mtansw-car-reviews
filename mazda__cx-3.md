@@ -1,19 +1,19 @@
 ---
-title: "Mazda Cx-3 Used Car Buyer's Guide"
+title: "Mazda CX-3 Used Car Buyer's Guide"
 make: Mazda
-model: Cx-3
-description: "Comprehensive used car review for the Mazda Cx-3 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: CX-3
+description: "Comprehensive used car review for the Mazda CX-3 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 38466
-price_range_aud: "AUD $30,990 – $38,466"
-year_range: "2026 – 2026"
-median_odometer_km: 5
+last_updated: "2026-07-25"
+active_listings_nsw: 65
+median_price_aud: 24839
+price_range_aud: "AUD $0 – $39,691"
+year_range: "2015 – 2026"
+median_odometer_km: 46346
 keywords: [mazda, cx-3, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mazda, Cx-3]
+breadcrumb: [Australian Used Car Reviews, Mazda, CX-3]
 ---
 
 #### 1. Introduction & Market Positioning

@@ -1,19 +1,19 @@
 ---
-title: "KIA Tasman Used Car Buyer's Guide"
-make: KIA
+title: "Kia Tasman Used Car Buyer's Guide"
+make: Kia
 model: Tasman
-description: "Comprehensive used car review for the KIA Tasman — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia Tasman — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__tasman.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 6
-median_price_aud: 58990
-price_range_aud: "AUD $54,990 – $79,990"
-year_range: "2025 – 2025"
-median_odometer_km: 2753
+last_updated: "2026-07-25"
+active_listings_nsw: 20
+median_price_aud: 55725
+price_range_aud: "AUD $41,990 – $79,990"
+year_range: "2000 – 2025"
+median_odometer_km: 100
 keywords: [kia, tasman, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, Tasman]
+breadcrumb: [Australian Used Car Reviews, Kia, Tasman]
 ---
 
 #### 1. Introduction & Market Positioning

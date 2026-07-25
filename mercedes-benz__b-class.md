@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz B-Class — re
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__b-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 26888
-price_range_aud: "AUD $26,888 – $26,888"
-year_range: "2020 – 2020"
-median_odometer_km: 65372
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 20442
+price_range_aud: "AUD $13,995 – $26,888"
+year_range: "2014 – 2020"
+median_odometer_km: 67616
 keywords: [mercedes-benz, b-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, B-Class]
 ---

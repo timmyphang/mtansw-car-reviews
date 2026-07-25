@@ -1,19 +1,19 @@
 ---
-title: "Land-Rover Range-Rover-Sport Used Car Buyer's Guide"
-make: Land-Rover
-model: Range-Rover-Sport
-description: "Comprehensive used car review for the Land-Rover Range-Rover-Sport — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+title: "Land Rover Range Rover Sport Used Car Buyer's Guide"
+make: Land Rover
+model: Range Rover Sport
+description: "Comprehensive used car review for the Land Rover Range Rover Sport — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-sport.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 34750
-price_range_aud: "AUD $34,750 – $34,750"
-year_range: "2014 – 2014"
+last_updated: "2026-07-25"
+active_listings_nsw: 11
+median_price_aud: 104740
+price_range_aud: "AUD $1,470 – $284,990"
+year_range: "2014 – 2026"
 median_odometer_km: 55580
-keywords: [land-rover, range-rover-sport, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Land-Rover, Range-Rover-Sport]
+keywords: [land rover, range rover sport, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Land Rover, Range Rover Sport]
 ---
 
 #### 1. Introduction & Market Positioning

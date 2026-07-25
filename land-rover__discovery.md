@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Land Rover Discovery — rel
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 45300
-price_range_aud: "AUD $42,800 – $47,800"
-year_range: "2020 – 2020"
-median_odometer_km: 59492
+last_updated: "2026-07-25"
+active_listings_nsw: 5
+median_price_aud: 2060
+price_range_aud: "AUD $550 – $47,800"
+year_range: "2014 – 2020"
+median_odometer_km: 97822
 keywords: [land rover, discovery, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Land Rover, Discovery]
 ---

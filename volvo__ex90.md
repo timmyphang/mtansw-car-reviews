@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volvo Ex90 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__ex90.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 3
 median_price_aud: 109990
 price_range_aud: "AUD $99,990 – $118,490"

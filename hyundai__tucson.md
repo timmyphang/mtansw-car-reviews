@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Tucson — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__tucson.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 17995
-price_range_aud: "AUD $12,995 – $22,999"
-year_range: "2016 – 2023"
-median_odometer_km: 50510
+last_updated: "2026-07-25"
+active_listings_nsw: 149
+median_price_aud: 34990
+price_range_aud: "AUD $0 – $62,990"
+year_range: "2000 – 2026"
+median_odometer_km: 37176
 keywords: [hyundai, tucson, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Tucson]
 ---

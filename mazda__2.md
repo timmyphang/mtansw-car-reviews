@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mazda 2 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__2.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 15
-median_price_aud: 15990
-price_range_aud: "AUD $8,990 – $24,990"
-year_range: "2011 – 2025"
-median_odometer_km: 67589
+last_updated: "2026-07-25"
+active_listings_nsw: 20
+median_price_aud: 20990
+price_range_aud: "AUD $8,990 – $32,881"
+year_range: "2011 – 2026"
+median_odometer_km: 48951
 keywords: [mazda, 2, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mazda, 2]
 ---

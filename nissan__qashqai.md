@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan Qashqai — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__qashqai.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 42995
-price_range_aud: "AUD $42,995 – $42,995"
-year_range: "2024 – 2026"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 26
+median_price_aud: 21939
+price_range_aud: "AUD $0 – $59,957"
+year_range: "2016 – 2026"
+median_odometer_km: 53368
 keywords: [nissan, qashqai, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, Qashqai]
 ---

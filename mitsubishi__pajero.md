@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mitsubishi Pajero — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
+last_updated: "2026-07-25"
+active_listings_nsw: 7
 median_price_aud: 28995
-price_range_aud: "AUD $28,995 – $28,995"
-year_range: "2012 – 2012"
-median_odometer_km: 101625
+price_range_aud: "AUD $25,950 – $61,990"
+year_range: "2012 – 2025"
+median_odometer_km: 97093
 keywords: [mitsubishi, pajero, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mitsubishi, Pajero]
 ---

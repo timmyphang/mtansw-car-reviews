@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volkswagen Passat — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__passat.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 5
 median_price_aud: 22888
 price_range_aud: "AUD $20,950 – $24,990"

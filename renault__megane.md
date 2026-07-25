@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Renault Megane — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__megane.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 20419
-price_range_aud: "AUD $12,950 – $27,888"
-year_range: "2015 – 2020"
-median_odometer_km: 64026
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 41639
+price_range_aud: "AUD $1,000 – $55,790"
+year_range: "2015 – 2024"
+median_odometer_km: 65
 keywords: [renault, megane, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Renault, Megane]
 ---

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mini Hatch — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__hatch.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 13900
-price_range_aud: "AUD $13,900 – $13,900"
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 7350
+price_range_aud: "AUD $800 – $13,900"
 year_range: "2013 – 2013"
-median_odometer_km: 130975
+median_odometer_km: 114398
 keywords: [mini, hatch, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mini, Hatch]
 ---

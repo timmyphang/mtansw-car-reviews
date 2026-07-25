@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru Forester — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__forester.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 13472
-price_range_aud: "AUD $8,995 – $17,950"
-year_range: "2009 – 2016"
-median_odometer_km: 35477
+last_updated: "2026-07-25"
+active_listings_nsw: 67
+median_price_aud: 29990
+price_range_aud: "AUD $0 – $59,990"
+year_range: "2009 – 2025"
+median_odometer_km: 54804
 keywords: [subaru, forester, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, Forester]
 ---

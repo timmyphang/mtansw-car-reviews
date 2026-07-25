@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Suzuki Jimny — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__jimny.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12900
-price_range_aud: "AUD $12,900 – $12,900"
-year_range: "2012 – 2012"
-median_odometer_km: 5343
+last_updated: "2026-07-25"
+active_listings_nsw: 34
+median_price_aud: 37352
+price_range_aud: "AUD $12,900 – $43,750"
+year_range: "2012 – 2026"
+median_odometer_km: 5603
 keywords: [suzuki, jimny, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Suzuki, Jimny]
 ---

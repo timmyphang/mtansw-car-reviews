@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Alfa Romeo Stelvio — relia
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__stelvio.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 13
 median_price_aud: 75939
 price_range_aud: "AUD $60,888 – $139,888"

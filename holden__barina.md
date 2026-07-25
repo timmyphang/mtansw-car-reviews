@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Barina — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__barina.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 6990
-price_range_aud: "AUD $6,990 – $6,990"
-year_range: "2013 – 2013"
-median_odometer_km: 129509
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 10492
+price_range_aud: "AUD $6,990 – $13,995"
+year_range: "2013 – 2018"
+median_odometer_km: 93480
 keywords: [holden, barina, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Barina]
 ---

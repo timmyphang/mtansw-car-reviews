@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mazda BT-50 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__bt-50.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 61490
-price_range_aud: "AUD $58,990 – $64,990"
-year_range: "2025 – 2026"
-median_odometer_km: 22
+last_updated: "2026-07-25"
+active_listings_nsw: 70
+median_price_aud: 44990
+price_range_aud: "AUD $21,950 – $73,990"
+year_range: "2014 – 2026"
+median_odometer_km: 30785
 keywords: [mazda, bt-50, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mazda, BT-50]
 ---

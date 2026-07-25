@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Lexus LX — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 136824
-price_range_aud: "AUD $136,824 – $136,824"
-year_range: "2022 – 2022"
-median_odometer_km: 31782
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 192994
+price_range_aud: "AUD $136,824 – $210,560"
+year_range: "2022 – 2025"
+median_odometer_km: 7010
 keywords: [lexus, lx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Lexus, LX]
 ---

@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Toyota Supra — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__supra.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 99995
+price_range_aud: "AUD $99,995 – $99,995"
+year_range: "1998 – 1998"
 median_odometer_km: 0
 keywords: [toyota, supra, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Supra]

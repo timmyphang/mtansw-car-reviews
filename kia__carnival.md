@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Kia Carnival — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__carnival.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 19995
-price_range_aud: "AUD $19,995 – $19,995"
-year_range: "2016 – 2016"
-median_odometer_km: 107584
+last_updated: "2026-07-25"
+active_listings_nsw: 44
+median_price_aud: 46435
+price_range_aud: "AUD $0 – $83,400"
+year_range: "2015 – 2026"
+median_odometer_km: 67861
 keywords: [kia, carnival, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Kia, Carnival]
 ---

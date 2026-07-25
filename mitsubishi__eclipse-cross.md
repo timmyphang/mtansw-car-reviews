@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mitsubishi Eclipse Cross —
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__eclipse-cross.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 34990
-price_range_aud: "AUD $34,990 – $34,990"
-year_range: "2023 – 2023"
-median_odometer_km: 8150
+last_updated: "2026-07-25"
+active_listings_nsw: 20
+median_price_aud: 26140
+price_range_aud: "AUD $17,690 – $42,990"
+year_range: "2017 – 2024"
+median_odometer_km: 40649
 keywords: [mitsubishi, eclipse cross, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mitsubishi, Eclipse Cross]
 ---

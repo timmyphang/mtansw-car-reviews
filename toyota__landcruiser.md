@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Landcruiser — relia
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 77929
-price_range_aud: "AUD $67,995 – $125,990"
-year_range: "2018 – 2023"
-median_odometer_km: 74094
+last_updated: "2026-07-25"
+active_listings_nsw: 88
+median_price_aud: 98490
+price_range_aud: "AUD $550 – $153,888"
+year_range: "2007 – 2026"
+median_odometer_km: 93396
 keywords: [toyota, landcruiser, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Landcruiser]
 ---

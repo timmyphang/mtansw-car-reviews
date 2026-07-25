@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Kia Cerato — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__cerato.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12888
-price_range_aud: "AUD $12,888 – $12,888"
-year_range: "2016 – 2016"
-median_odometer_km: 51085
+last_updated: "2026-07-25"
+active_listings_nsw: 57
+median_price_aud: 19990
+price_range_aud: "AUD $0 – $31,990"
+year_range: "2009 – 2024"
+median_odometer_km: 55801
 keywords: [kia, cerato, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Kia, Cerato]
 ---

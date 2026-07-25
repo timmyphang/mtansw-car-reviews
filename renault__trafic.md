@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Renault Trafic — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__trafic.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12800
-price_range_aud: "AUD $12,800 – $12,800"
-year_range: "2017 – 2017"
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 32990
+price_range_aud: "AUD $12,800 – $62,490"
+year_range: "2014 – 2026"
 median_odometer_km: 96434
 keywords: [renault, trafic, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Renault, Trafic]

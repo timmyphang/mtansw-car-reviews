@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Landcruiser Prado —
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser-prado.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 44950
-price_range_aud: "AUD $44,950 – $44,950"
-year_range: "2020 – 2020"
-median_odometer_km: 32731
+last_updated: "2026-07-25"
+active_listings_nsw: 67
+median_price_aud: 59990
+price_range_aud: "AUD $0 – $105,990"
+year_range: "2012 – 2025"
+median_odometer_km: 92544
 keywords: [toyota, landcruiser prado, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Landcruiser Prado]
 ---

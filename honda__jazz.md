@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Honda Jazz — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__jazz.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 17888
-price_range_aud: "AUD $17,888 – $17,888"
-year_range: "2018 – 2018"
-median_odometer_km: 77478
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 16938
+price_range_aud: "AUD $15,988 – $17,888"
+year_range: "2016 – 2018"
+median_odometer_km: 85289
 keywords: [honda, jazz, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Honda, Jazz]
 ---

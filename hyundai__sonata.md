@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Sonata — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__sonata.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 4750
-price_range_aud: "AUD $4,750 – $4,750"
-year_range: "2006 – 2006"
-median_odometer_km: 15360
+last_updated: "2026-07-25"
+active_listings_nsw: 10
+median_price_aud: 37490
+price_range_aud: "AUD $4,750 – $59,888"
+year_range: "2000 – 2026"
+median_odometer_km: 21007
 keywords: [hyundai, sonata, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Sonata]
 ---

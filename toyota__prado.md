@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Toyota Prado — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__prado.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
+last_updated: "2026-07-25"
+active_listings_nsw: 9
 median_price_aud: 57995
-price_range_aud: "AUD $57,995 – $57,995"
-year_range: "2022 – 2022"
+price_range_aud: "AUD $46,999 – $99,999"
+year_range: "2017 – 2024"
 median_odometer_km: 112126
 keywords: [toyota, prado, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Prado]

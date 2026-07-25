@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Jeep Grand Cherokee — reli
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__grand-cherokee.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 13990
-price_range_aud: "AUD $13,990 – $13,990"
-year_range: "2012 – 2012"
-median_odometer_km: 103357
+last_updated: "2026-07-25"
+active_listings_nsw: 13
+median_price_aud: 34888
+price_range_aud: "AUD $0 – $58,990"
+year_range: "2012 – 2022"
+median_odometer_km: 96635
 keywords: [jeep, grand cherokee, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Grand Cherokee]
 ---

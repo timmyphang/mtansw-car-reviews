@@ -1,19 +1,19 @@
 ---
-title: "KIA Picanto Used Car Buyer's Guide"
-make: KIA
+title: "Kia Picanto Used Car Buyer's Guide"
+make: Kia
 model: Picanto
-description: "Comprehensive used car review for the KIA Picanto — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia Picanto — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__picanto.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 24990
-price_range_aud: "AUD $24,990 – $24,990"
-year_range: "2025 – 2026"
-median_odometer_km: 19
+last_updated: "2026-07-25"
+active_listings_nsw: 20
+median_price_aud: 20990
+price_range_aud: "AUD $15,890 – $25,755"
+year_range: "2000 – 2026"
+median_odometer_km: 2100
 keywords: [kia, picanto, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, Picanto]
+breadcrumb: [Australian Used Car Reviews, Kia, Picanto]
 ---
 
 #### 1. Introduction & Market Positioning

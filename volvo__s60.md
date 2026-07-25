@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volvo S60 — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__s60.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 24990
 price_range_aud: "AUD $24,990 – $24,990"

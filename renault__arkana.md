@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Renault Arkana — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__arkana.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 6
 median_price_aud: 34450
 price_range_aud: "AUD $19,930 – $36,990"

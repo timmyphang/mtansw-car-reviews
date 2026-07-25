@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Mazda MX-5 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__mx-5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 42990
-price_range_aud: "AUD $29,990 – $55,990"
-year_range: "2016 – 2024"
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 55990
+price_range_aud: "AUD $29,990 – $61,691"
+year_range: "2016 – 2026"
 median_odometer_km: 26130
 keywords: [mazda, mx-5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mazda, MX-5]

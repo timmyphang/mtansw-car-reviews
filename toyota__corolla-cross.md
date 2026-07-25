@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Corolla Cross — rel
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla-cross.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 16
-median_price_aud: 44240
+last_updated: "2026-07-25"
+active_listings_nsw: 18
+median_price_aud: 41494
 price_range_aud: "AUD $36,277 – $54,490"
 year_range: "2022 – 2026"
-median_odometer_km: 34017
+median_odometer_km: 30584
 keywords: [toyota, corolla cross, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Corolla Cross]
 ---

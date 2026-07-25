@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Kia Ev5 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__ev5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 4
 median_price_aud: 50970
 price_range_aud: "AUD $43,990 – $73,778"

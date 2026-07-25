@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Accent — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__accent.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "2018 – 2018"
-median_odometer_km: 84635
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 10492
+price_range_aud: "AUD $0 – $13,990"
+year_range: "2005 – 2018"
+median_odometer_km: 69857
 keywords: [hyundai, accent, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Accent]
 ---

@@ -6,8 +6,8 @@ description: "Comprehensive used car review for the Toyota Fortuner — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fortuner.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 16
+last_updated: "2026-07-25"
+active_listings_nsw: 17
 median_price_aud: 39990
 price_range_aud: "AUD $29,990 – $68,990"
 year_range: "2015 – 2025"

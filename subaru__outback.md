@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru Outback — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__outback.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 16995
-price_range_aud: "AUD $16,995 – $16,995"
-year_range: "2015 – 2015"
-median_odometer_km: 14732
+last_updated: "2026-07-25"
+active_listings_nsw: 42
+median_price_aud: 34490
+price_range_aud: "AUD $0 – $62,990"
+year_range: "2015 – 2026"
+median_odometer_km: 50921
 keywords: [subaru, outback, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, Outback]
 ---

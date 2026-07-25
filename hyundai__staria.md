@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Staria — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__staria.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
+last_updated: "2026-07-25"
+active_listings_nsw: 15
 median_price_aud: 51490
-price_range_aud: "AUD $49,990 – $52,990"
-year_range: "2025 – 2026"
-median_odometer_km: 12
+price_range_aud: "AUD $28,888 – $79,990"
+year_range: "2021 – 2026"
+median_odometer_km: 4512
 keywords: [hyundai, staria, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Staria]
 ---

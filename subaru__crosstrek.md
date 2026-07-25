@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru Crosstrek — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__crosstrek.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 17
+last_updated: "2026-07-25"
+active_listings_nsw: 18
 median_price_aud: 31490
 price_range_aud: "AUD $27,990 – $46,990"
 year_range: "2023 – 2026"
-median_odometer_km: 31185
+median_odometer_km: 28789
 keywords: [subaru, crosstrek, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, Crosstrek]
 ---

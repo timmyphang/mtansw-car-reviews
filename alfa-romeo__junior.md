@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Alfa Romeo Junior — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__junior.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 28
 median_price_aud: 51990
 price_range_aud: "AUD $51,990 – $64,888"

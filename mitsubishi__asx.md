@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mitsubishi ASX — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__asx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 29490
-price_range_aud: "AUD $14,995 – $39,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 67
+median_price_aud: 23939
+price_range_aud: "AUD $0 – $39,990"
 year_range: "2012 – 2025"
-median_odometer_km: 1607
+median_odometer_km: 63038
 keywords: [mitsubishi, asx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mitsubishi, ASX]
 ---

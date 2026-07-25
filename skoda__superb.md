@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the SKODA Superb — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__superb.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 20950
-price_range_aud: "AUD $20,950 – $20,950"
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 10750
+price_range_aud: "AUD $550 – $20,950"
 year_range: "2017 – 2017"
-median_odometer_km: 97201
+median_odometer_km: 48650
 keywords: [skoda, superb, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, SKODA, Superb]
 ---

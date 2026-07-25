@@ -1,19 +1,19 @@
 ---
-title: "KIA Seltos Used Car Buyer's Guide"
-make: KIA
+title: "Kia Seltos Used Car Buyer's Guide"
+make: Kia
 model: Seltos
-description: "Comprehensive used car review for the KIA Seltos — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia Seltos — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__seltos.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 19990
-price_range_aud: "AUD $19,990 – $19,990"
-year_range: "2019 – 2025"
-median_odometer_km: 50282
+last_updated: "2026-07-25"
+active_listings_nsw: 28
+median_price_aud: 25990
+price_range_aud: "AUD $19,888 – $50,217"
+year_range: "2000 – 2026"
+median_odometer_km: 54209
 keywords: [kia, seltos, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, Seltos]
+breadcrumb: [Australian Used Car Reviews, Kia, Seltos]
 ---
 
 #### 1. Introduction & Market Positioning

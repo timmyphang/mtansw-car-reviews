@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Porsche Cayenne — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__cayenne.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 10
-median_price_aud: 161900
-price_range_aud: "AUD $72,888 – $237,900"
-year_range: "2019 – 2026"
-median_odometer_km: 23696
+last_updated: "2026-07-25"
+active_listings_nsw: 11
+median_price_aud: 152400
+price_range_aud: "AUD $550 – $237,900"
+year_range: "2018 – 2026"
+median_odometer_km: 15554
 keywords: [porsche, cayenne, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Porsche, Cayenne]
 ---

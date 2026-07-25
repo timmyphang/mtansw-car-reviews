@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Touareg — relia
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__touareg.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 14
-median_price_aud: 55970
-price_range_aud: "AUD $13,990 – $119,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 15
+median_price_aud: 55950
+price_range_aud: "AUD $550 – $119,990"
 year_range: "2015 – 2025"
-median_odometer_km: 39441
+median_odometer_km: 45236
 keywords: [volkswagen, touareg, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Touareg]
 ---

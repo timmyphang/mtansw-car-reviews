@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Id.5 — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 67990
-price_range_aud: "AUD $67,990 – $67,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 64990
+price_range_aud: "AUD $59,990 – $67,990"
 year_range: "2025 – 2025"
-median_odometer_km: 7627
+median_odometer_km: 1453
 keywords: [volkswagen, id.5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Id.5]
 ---

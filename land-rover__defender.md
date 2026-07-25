@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Land Rover Defender — reli
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__defender.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 13
 median_price_aud: 172880
 price_range_aud: "AUD $87,990 – $329,990"

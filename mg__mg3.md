@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the MG Mg3 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 20
+last_updated: "2026-07-25"
+active_listings_nsw: 22
 median_price_aud: 16990
-price_range_aud: "AUD $11,990 – $24,999"
+price_range_aud: "AUD $11,990 – $26,950"
 year_range: "2018 – 2025"
-median_odometer_km: 30763
+median_odometer_km: 24810
 keywords: [mg, mg3, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, MG, Mg3]
 ---

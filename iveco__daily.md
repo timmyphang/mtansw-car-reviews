@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Iveco Daily — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/iveco__daily.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 61470
 price_range_aud: "AUD $33,990 – $88,950"

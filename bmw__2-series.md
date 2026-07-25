@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW 2 Series — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__2-series.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 35690
-price_range_aud: "AUD $22,400 – $39,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 29990
+price_range_aud: "AUD $1,308 – $39,990"
 year_range: "2015 – 2022"
-median_odometer_km: 47672
+median_odometer_km: 56206
 keywords: [bmw, 2 series, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, 2 Series]
 ---

@@ -1,19 +1,19 @@
 ---
-title: "Holden Gts Used Car Buyer's Guide"
+title: "Holden GTS Used Car Buyer's Guide"
 make: Holden
-model: Gts
-description: "Comprehensive used car review for the Holden Gts — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: GTS
+description: "Comprehensive used car review for the Holden GTS — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__gts.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 129994
+price_range_aud: "AUD $114,999 – $144,990"
+year_range: "2015 – 2015"
+median_odometer_km: 54629
 keywords: [holden, gts, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Holden, Gts]
+breadcrumb: [Australian Used Car Reviews, Holden, GTS]
 ---
 
 #### 1. Introduction & Market Positioning

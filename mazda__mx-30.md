@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mazda MX-30 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__mx-30.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 26695
 price_range_aud: "AUD $25,990 – $27,400"

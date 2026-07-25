@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Camry — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__camry.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 13990
-price_range_aud: "AUD $13,990 – $13,990"
-year_range: "2012 – 2012"
-median_odometer_km: 122477
+last_updated: "2026-07-25"
+active_listings_nsw: 50
+median_price_aud: 32490
+price_range_aud: "AUD $11,990 – $52,880"
+year_range: "2012 – 2025"
+median_odometer_km: 57578
 keywords: [toyota, camry, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Camry]
 ---

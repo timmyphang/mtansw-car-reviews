@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the SKODA Fabia — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__fabia.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 14888
-price_range_aud: "AUD $14,888 – $14,888"
-year_range: "2019 – 2019"
-median_odometer_km: 35078
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 16439
+price_range_aud: "AUD $7,990 – $21,990"
+year_range: "2014 – 2022"
+median_odometer_km: 43742
 keywords: [skoda, fabia, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, SKODA, Fabia]
 ---

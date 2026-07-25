@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Tourneo — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__tourneo.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 61425
-price_range_aud: "AUD $58,000 – $64,850"
-year_range: "2024 – 2024"
-median_odometer_km: 3845
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 65920
+price_range_aud: "AUD $58,000 – $66,990"
+year_range: "2000 – 2024"
+median_odometer_km: 100
 keywords: [ford, tourneo, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Tourneo]
 ---

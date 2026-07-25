@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Hiace — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hiace.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12990
-price_range_aud: "AUD $12,990 – $12,990"
-year_range: "2006 – 2006"
-median_odometer_km: 25600
+last_updated: "2026-07-25"
+active_listings_nsw: 35
+median_price_aud: 49990
+price_range_aud: "AUD $0 – $130,000"
+year_range: "2006 – 2026"
+median_odometer_km: 49100
 keywords: [toyota, hiace, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Hiace]
 ---

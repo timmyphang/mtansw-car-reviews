@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mazda CX — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 18
 median_price_aud: 45255
 price_range_aud: "AUD $500 – $74,990"

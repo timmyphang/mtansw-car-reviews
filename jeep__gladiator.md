@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Jeep Gladiator — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__gladiator.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 69939
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 88990
 price_range_aud: "AUD $49,990 – $89,888"
-year_range: "2022 – 2025"
-median_odometer_km: 623
+year_range: "2022 – 2026"
+median_odometer_km: 66
 keywords: [jeep, gladiator, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Gladiator]
 ---

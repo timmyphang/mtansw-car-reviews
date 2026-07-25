@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mazda CX-30 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-30.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 38990
-price_range_aud: "AUD $38,990 – $38,990"
-year_range: "2026 – 2026"
-median_odometer_km: 987
+last_updated: "2026-07-25"
+active_listings_nsw: 60
+median_price_aud: 34235
+price_range_aud: "AUD $0 – $47,818"
+year_range: "2020 – 2026"
+median_odometer_km: 8
 keywords: [mazda, cx-30, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mazda, CX-30]
 ---

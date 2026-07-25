@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Toyota Coaster — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__coaster.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
+last_updated: "2026-07-25"
+active_listings_nsw: 4
 median_price_aud: 87990
-price_range_aud: "AUD $87,990 – $152,990"
-year_range: "2017 – 2025"
+price_range_aud: "AUD $85,000 – $152,990"
+year_range: "2016 – 2025"
 median_odometer_km: 163059
 keywords: [toyota, coaster, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Coaster]

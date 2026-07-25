@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Land Rover Discovery Sport �
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery-sport.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 15995
-price_range_aud: "AUD $15,995 – $15,995"
-year_range: "2017 – 2017"
-median_odometer_km: 34480
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 25398
+price_range_aud: "AUD $7,990 – $37,990"
+year_range: "2017 – 2022"
+median_odometer_km: 62253
 keywords: [land rover, discovery sport, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Land Rover, Discovery Sport]
 ---

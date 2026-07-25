@@ -1,19 +1,19 @@
 ---
-title: "KIA Sorento Used Car Buyer's Guide"
-make: KIA
+title: "Kia Sorento Used Car Buyer's Guide"
+make: Kia
 model: Sorento
-description: "Comprehensive used car review for the KIA Sorento — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia Sorento — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sorento.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 73500
-price_range_aud: "AUD $66,240 – $78,990"
-year_range: "2025 – 2026"
-median_odometer_km: 19
+last_updated: "2026-07-25"
+active_listings_nsw: 51
+median_price_aud: 50990
+price_range_aud: "AUD $16,900 – $78,990"
+year_range: "2000 – 2026"
+median_odometer_km: 11120
 keywords: [kia, sorento, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, Sorento]
+breadcrumb: [Australian Used Car Reviews, Kia, Sorento]
 ---
 
 #### 1. Introduction & Market Positioning

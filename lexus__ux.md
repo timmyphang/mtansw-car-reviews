@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Lexus UX — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ux.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 45419
-price_range_aud: "AUD $39,950 – $50,888"
-year_range: "2022 – 2023"
-median_odometer_km: 51410
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 51944
+price_range_aud: "AUD $36,932 – $69,990"
+year_range: "2021 – 2025"
+median_odometer_km: 41922
 keywords: [lexus, ux, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Lexus, UX]
 ---

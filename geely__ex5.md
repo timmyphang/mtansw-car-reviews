@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Geely Ex5 — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__ex5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 41
-median_price_aud: 44888
-price_range_aud: "AUD $43,990 – $44,990"
-year_range: "2025 – 2026"
+last_updated: "2026-07-25"
+active_listings_nsw: 89
+median_price_aud: 49860
+price_range_aud: "AUD $41,690 – $50,201"
+year_range: "2025 – 2027"
 median_odometer_km: 10
 keywords: [geely, ex5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Geely, Ex5]

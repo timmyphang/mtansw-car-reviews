@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz GLA-Class — 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gla-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 37439
-price_range_aud: "AUD $31,990 – $44,990"
-year_range: "2019 – 2021"
-median_odometer_km: 59190
+last_updated: "2026-07-25"
+active_listings_nsw: 9
+median_price_aud: 31990
+price_range_aud: "AUD $490 – $45,932"
+year_range: "2015 – 2021"
+median_odometer_km: 72481
 keywords: [mercedes-benz, gla-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, GLA-Class]
 ---

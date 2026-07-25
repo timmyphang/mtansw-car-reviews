@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Fiat 500 — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/fiat__500.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 28888
 price_range_aud: "AUD $28,888 – $28,888"

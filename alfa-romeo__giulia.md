@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Alfa Romeo Giulia — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__giulia.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 14
-median_price_aud: 144388
-price_range_aud: "AUD $74,888 – $188,888"
-year_range: "2023 – 2026"
+last_updated: "2026-07-25"
+active_listings_nsw: 15
+median_price_aud: 143888
+price_range_aud: "AUD $2,200 – $188,888"
+year_range: "2017 – 2026"
 median_odometer_km: 10
 keywords: [alfa romeo, giulia, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Alfa Romeo, Giulia]

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru WRX — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__wrx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 40997
-price_range_aud: "AUD $39,999 – $41,995"
-year_range: "2022 – 2023"
-median_odometer_km: 56552
+last_updated: "2026-07-25"
+active_listings_nsw: 17
+median_price_aud: 39990
+price_range_aud: "AUD $28,950 – $67,440"
+year_range: "2014 – 2024"
+median_odometer_km: 44702
 keywords: [subaru, wrx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, WRX]
 ---

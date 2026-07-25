@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Chery Tiggo 4 — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-4.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "2025 – 2025"
-median_odometer_km: 1423
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 27490
+price_range_aud: "AUD $0 – $27,490"
+year_range: "2000 – 2025"
+median_odometer_km: 100
 keywords: [chery, tiggo 4, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Chery, Tiggo 4]
 ---

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Escape — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__escape.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 7995
-price_range_aud: "AUD $7,995 – $7,995"
-year_range: "2010 – 2010"
-median_odometer_km: 158470
+last_updated: "2026-07-25"
+active_listings_nsw: 9
+median_price_aud: 19490
+price_range_aud: "AUD $7,995 – $29,990"
+year_range: "2010 – 2023"
+median_odometer_km: 66703
 keywords: [ford, escape, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Escape]
 ---

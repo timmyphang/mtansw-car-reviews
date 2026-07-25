@@ -1,19 +1,19 @@
 ---
-title: "Mercedes Benz Sl Class Used Car Buyer's Guide"
-make: Mercedes Benz
-model: Sl Class
-description: "Comprehensive used car review for the Mercedes Benz Sl Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+title: "Mercedes-Benz SL-Class Used Car Buyer's Guide"
+make: Mercedes-Benz
+model: SL-Class
+description: "Comprehensive used car review for the Mercedes-Benz SL-Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__sl-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
-keywords: [mercedes benz, sl class, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mercedes Benz, Sl Class]
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 48800
+price_range_aud: "AUD $48,800 – $48,800"
+year_range: "1981 – 1981"
+median_odometer_km: 97822
+keywords: [mercedes-benz, sl-class, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, SL-Class]
 ---
 
 #### 1. Introduction & Market Positioning

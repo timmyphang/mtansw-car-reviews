@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Porsche Macan — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__macan.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 59950
-price_range_aud: "AUD $59,950 – $59,950"
-year_range: "2015 – 2015"
-median_odometer_km: 7150
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 114880
+price_range_aud: "AUD $59,950 – $197,900"
+year_range: "2015 – 2025"
+median_odometer_km: 19036
 keywords: [porsche, macan, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Porsche, Macan]
 ---

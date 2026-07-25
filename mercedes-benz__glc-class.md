@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz GLC-Class — 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__glc-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 58490
-price_range_aud: "AUD $57,990 – $58,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 8
+median_price_aud: 41432
+price_range_aud: "AUD $550 – $119,990"
 year_range: "2018 – 2022"
-median_odometer_km: 57794
+median_odometer_km: 48733
 keywords: [mercedes-benz, glc-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, GLC-Class]
 ---

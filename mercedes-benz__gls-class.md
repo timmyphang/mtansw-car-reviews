@@ -1,19 +1,19 @@
 ---
-title: "Mercedes Benz Gls Class Used Car Buyer's Guide"
-make: Mercedes Benz
-model: Gls Class
-description: "Comprehensive used car review for the Mercedes Benz Gls Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+title: "Mercedes-Benz GLS-Class Used Car Buyer's Guide"
+make: Mercedes-Benz
+model: GLS-Class
+description: "Comprehensive used car review for the Mercedes-Benz GLS-Class — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gls-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
-keywords: [mercedes benz, gls class, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mercedes Benz, Gls Class]
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 550
+price_range_aud: "AUD $550 – $550"
+year_range: "2016 – 2016"
+median_odometer_km: 97822
+keywords: [mercedes-benz, gls-class, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, GLS-Class]
 ---
 
 #### 1. Introduction & Market Positioning

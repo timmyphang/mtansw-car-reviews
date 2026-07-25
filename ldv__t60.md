@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the LDV T60 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__t60.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 19999
-price_range_aud: "AUD $19,999 – $19,999"
-year_range: "2022 – 2022"
-median_odometer_km: 74172
+last_updated: "2026-07-25"
+active_listings_nsw: 42
+median_price_aud: 41490
+price_range_aud: "AUD $17,990 – $48,990"
+year_range: "2017 – 2026"
+median_odometer_km: 20
 keywords: [ldv, t60, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, LDV, T60]
 ---

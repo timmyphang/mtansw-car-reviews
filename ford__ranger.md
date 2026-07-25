@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Ranger — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 52995
-price_range_aud: "AUD $32,995 – $52,999"
-year_range: "2022 – 2023"
-median_odometer_km: 67627
+last_updated: "2026-07-25"
+active_listings_nsw: 523
+median_price_aud: 54990
+price_range_aud: "AUD $0 – $114,990"
+year_range: "2000 – 2026"
+median_odometer_km: 16196
 keywords: [ford, ranger, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Ranger]
 ---

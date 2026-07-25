@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mitsubishi Triton — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__triton.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 16950
-price_range_aud: "AUD $14,500 – $17,880"
-year_range: "2017 – 2018"
-median_odometer_km: 26696
+last_updated: "2026-07-25"
+active_listings_nsw: 119
+median_price_aud: 39990
+price_range_aud: "AUD $0 – $75,990"
+year_range: "2013 – 2026"
+median_odometer_km: 15956
 keywords: [mitsubishi, triton, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mitsubishi, Triton]
 ---

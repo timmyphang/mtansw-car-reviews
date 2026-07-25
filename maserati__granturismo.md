@@ -1,19 +1,19 @@
 ---
-title: "Maserati Granturismo Used Car Buyer's Guide"
+title: "Maserati GranTurismo Used Car Buyer's Guide"
 make: Maserati
-model: Granturismo
-description: "Comprehensive used car review for the Maserati Granturismo — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: GranTurismo
+description: "Comprehensive used car review for the Maserati GranTurismo — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__granturismo.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 379880
-price_range_aud: "AUD $379,880 – $379,880"
-year_range: "2026 – 2026"
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 374880
+price_range_aud: "AUD $369,880 – $379,880"
+year_range: "2024 – 2026"
 median_odometer_km: 20
 keywords: [maserati, granturismo, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Maserati, Granturismo]
+breadcrumb: [Australian Used Car Reviews, Maserati, GranTurismo]
 ---
 
 #### 1. Introduction & Market Positioning

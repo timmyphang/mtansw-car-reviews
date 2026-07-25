@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the GWM Tank 300 — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__tank-300.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 26
 median_price_aud: 50990
 price_range_aud: "AUD $33,490 – $62,585"

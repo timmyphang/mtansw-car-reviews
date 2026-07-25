@@ -1,19 +1,19 @@
 ---
-title: "Volkswagen T-roc Used Car Buyer's Guide"
+title: "Volkswagen T-Roc Used Car Buyer's Guide"
 make: Volkswagen
-model: T-roc
-description: "Comprehensive used car review for the Volkswagen T-roc — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: T-Roc
+description: "Comprehensive used car review for the Volkswagen T-Roc — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__t-roc.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 40990
-price_range_aud: "AUD $40,990 – $40,990"
-year_range: "2025 – 2025"
-median_odometer_km: 7158
+last_updated: "2026-07-25"
+active_listings_nsw: 23
+median_price_aud: 39990
+price_range_aud: "AUD $23,990 – $66,990"
+year_range: "2021 – 2025"
+median_odometer_km: 9617
 keywords: [volkswagen, t-roc, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Volkswagen, T-roc]
+breadcrumb: [Australian Used Car Reviews, Volkswagen, T-Roc]
 ---
 
 #### 1. Introduction & Market Positioning

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Maserati Levante — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__levante.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 69880
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 82990
 price_range_aud: "AUD $66,880 – $209,880"
 year_range: "2021 – 2022"
-median_odometer_km: 47309
+median_odometer_km: 46428
 keywords: [maserati, levante, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Maserati, Levante]
 ---

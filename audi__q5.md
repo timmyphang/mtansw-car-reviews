@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Audi Q5 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 6
-median_price_aud: 28898
-price_range_aud: "AUD $21,990 – $61,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 28800
+price_range_aud: "AUD $600 – $61,990"
 year_range: "2018 – 2023"
-median_odometer_km: 65763
+median_odometer_km: 55244
 keywords: [audi, q5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Audi, Q5]
 ---

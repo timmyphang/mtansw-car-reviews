@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the GWM Haval H7 — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h7.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 41490
 price_range_aud: "AUD $38,990 – $43,990"

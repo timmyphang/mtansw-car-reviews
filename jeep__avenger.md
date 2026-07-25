@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Jeep Avenger — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__avenger.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 46888
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 44939
 price_range_aud: "AUD $38,990 – $47,280"
 year_range: "2024 – 2024"
-median_odometer_km: 105
+median_odometer_km: 57
 keywords: [jeep, avenger, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Avenger]
 ---

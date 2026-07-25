@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Ute — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__ute.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "2017 – 2017"
-median_odometer_km: 141809
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 49990
+price_range_aud: "AUD $49,990 – $49,990"
+year_range: "2014 – 2017"
+median_odometer_km: 115869
 keywords: [holden, ute, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Ute]
 ---

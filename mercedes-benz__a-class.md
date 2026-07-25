@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Mercedes-Benz A-Class — re
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__a-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 33490
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 37740
 price_range_aud: "AUD $19,960 – $48,880"
-year_range: "2018 – 2021"
+year_range: "2018 – 2022"
 median_odometer_km: 50750
 keywords: [mercedes-benz, a-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, A-Class]

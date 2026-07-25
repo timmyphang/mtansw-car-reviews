@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Focus — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__focus.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 7995
-price_range_aud: "AUD $7,995 – $7,995"
-year_range: "2013 – 2013"
-median_odometer_km: 57307
+last_updated: "2026-07-25"
+active_listings_nsw: 9
+median_price_aud: 17990
+price_range_aud: "AUD $7,995 – $25,990"
+year_range: "2013 – 2020"
+median_odometer_km: 76289
 keywords: [ford, focus, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Focus]
 ---

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Corolla — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 23995
-price_range_aud: "AUD $23,995 – $23,995"
-year_range: "2020 – 2020"
-median_odometer_km: 88317
+last_updated: "2026-07-25"
+active_listings_nsw: 86
+median_price_aud: 27990
+price_range_aud: "AUD $8,995 – $63,990"
+year_range: "2009 – 2025"
+median_odometer_km: 53895
 keywords: [toyota, corolla, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Corolla]
 ---

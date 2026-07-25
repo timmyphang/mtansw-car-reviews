@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mazda 6 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__6.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 5
 median_price_aud: 26990
 price_range_aud: "AUD $0 – $38,500"

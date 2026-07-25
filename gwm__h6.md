@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the GWM H6 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h6.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 20999
-price_range_aud: "AUD $20,999 – $20,999"
-year_range: "2020 – 2020"
-median_odometer_km: 25254
+last_updated: "2026-07-25"
+active_listings_nsw: 5
+median_price_aud: 21990
+price_range_aud: "AUD $15,860 – $23,888"
+year_range: "2019 – 2021"
+median_odometer_km: 57885
 keywords: [gwm, h6, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, GWM, H6]
 ---

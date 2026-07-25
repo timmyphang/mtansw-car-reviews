@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volvo V60 — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v60.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 42490
+price_range_aud: "AUD $42,490 – $42,490"
+year_range: "2022 – 2022"
+median_odometer_km: 31000
 keywords: [volvo, v60, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volvo, V60]
 ---

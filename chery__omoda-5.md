@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Chery Omoda 5 — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__omoda-5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 4
 median_price_aud: 22939
 price_range_aud: "AUD $22,888 – $23,888"

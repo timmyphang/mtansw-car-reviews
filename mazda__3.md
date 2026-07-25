@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mazda 3 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 13990
-price_range_aud: "AUD $13,990 – $13,990"
-year_range: "2014 – 2014"
-median_odometer_km: 10100
+last_updated: "2026-07-25"
+active_listings_nsw: 30
+median_price_aud: 26939
+price_range_aud: "AUD $12,990 – $47,923"
+year_range: "2013 – 2026"
+median_odometer_km: 38225
 keywords: [mazda, 3, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mazda, 3]
 ---

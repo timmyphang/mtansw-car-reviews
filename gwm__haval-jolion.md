@@ -1,19 +1,19 @@
 ---
-title: "GWM Haval-Jolion Used Car Buyer's Guide"
+title: "GWM Haval Jolion Used Car Buyer's Guide"
 make: GWM
-model: Haval-Jolion
-description: "Comprehensive used car review for the GWM Haval-Jolion — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: Haval Jolion
+description: "Comprehensive used car review for the GWM Haval Jolion — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-jolion.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 22800
-price_range_aud: "AUD $22,800 – $22,800"
-year_range: "2024 – 2024"
+last_updated: "2026-07-25"
+active_listings_nsw: 77
+median_price_aud: 25990
+price_range_aud: "AUD $0 – $36,990"
+year_range: "2022 – 2026"
 median_odometer_km: 14834
-keywords: [gwm, haval-jolion, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, GWM, Haval-Jolion]
+keywords: [gwm, haval jolion, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, GWM, Haval Jolion]
 ---
 
 #### 1. Introduction & Market Positioning

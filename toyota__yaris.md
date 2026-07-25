@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Yaris — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 12
-median_price_aud: 25939
-price_range_aud: "AUD $14,990 – $58,888"
+last_updated: "2026-07-25"
+active_listings_nsw: 13
+median_price_aud: 28888
+price_range_aud: "AUD $14,990 – $64,490"
 year_range: "2010 – 2025"
-median_odometer_km: 32972
+median_odometer_km: 28996
 keywords: [toyota, yaris, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Yaris]
 ---

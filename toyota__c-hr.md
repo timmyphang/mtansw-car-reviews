@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota C-HR — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__c-hr.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 27
+last_updated: "2026-07-25"
+active_listings_nsw: 29
 median_price_aud: 28440
 price_range_aud: "AUD $0 – $53,888"
 year_range: "2017 – 2025"
-median_odometer_km: 53114
+median_odometer_km: 44852
 keywords: [toyota, c-hr, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, C-HR]
 ---

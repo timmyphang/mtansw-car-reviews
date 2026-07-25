@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW 6 Series — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__6-series.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 36999
-price_range_aud: "AUD $36,999 – $36,999"
-year_range: "2020 – 2020"
-median_odometer_km: 48232
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 18774
+price_range_aud: "AUD $550 – $36,999"
+year_range: "2007 – 2020"
+median_odometer_km: 73027
 keywords: [bmw, 6 series, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, 6 Series]
 ---

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW X3 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 12
-median_price_aud: 42819
-price_range_aud: "AUD $23,990 – $93,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 16
+median_price_aud: 32415
+price_range_aud: "AUD $1,000 – $93,990"
 year_range: "2018 – 2026"
-median_odometer_km: 79245
+median_odometer_km: 47744
 keywords: [bmw, x3, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, X3]
 ---

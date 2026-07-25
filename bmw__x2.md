@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the BMW X2 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x2.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 3
 median_price_aud: 39990
 price_range_aud: "AUD $20,880 – $74,990"

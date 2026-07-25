@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai I30 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i30.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12800
-price_range_aud: "AUD $12,800 – $12,800"
-year_range: "2013 – 2013"
-median_odometer_km: 39500
+last_updated: "2026-07-25"
+active_listings_nsw: 55
+median_price_aud: 23420
+price_range_aud: "AUD $0 – $62,990"
+year_range: "2009 – 2026"
+median_odometer_km: 56732
 keywords: [hyundai, i30, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, I30]
 ---

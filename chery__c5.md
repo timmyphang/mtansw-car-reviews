@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Chery C5 — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__c5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 13745
-price_range_aud: "AUD $0 – $27,490"
-year_range: "2025 – 2026"
-median_odometer_km: 1035
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 28490
+price_range_aud: "AUD $0 – $29,490"
+year_range: "2000 – 2026"
+median_odometer_km: 1064
 keywords: [chery, c5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Chery, C5]
 ---

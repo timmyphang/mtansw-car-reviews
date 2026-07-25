@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW X5 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x5.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 63888
-price_range_aud: "AUD $42,990 – $118,888"
-year_range: "2018 – 2025"
-median_odometer_km: 78951
+last_updated: "2026-07-25"
+active_listings_nsw: 10
+median_price_aud: 50439
+price_range_aud: "AUD $2,000 – $118,888"
+year_range: "2016 – 2025"
+median_odometer_km: 81510
 keywords: [bmw, x5, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, X5]
 ---

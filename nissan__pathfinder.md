@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan Pathfinder — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__pathfinder.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 34439
-price_range_aud: "AUD $9,990 – $59,888"
-year_range: "2012 – 2023"
-median_odometer_km: 56232
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 53388
+price_range_aud: "AUD $9,990 – $59,990"
+year_range: "2000 – 2023"
+median_odometer_km: 20384
 keywords: [nissan, pathfinder, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, Pathfinder]
 ---

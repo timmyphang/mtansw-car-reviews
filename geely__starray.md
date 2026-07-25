@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Geely Starray — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__starray.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 9
-median_price_aud: 44990
-price_range_aud: "AUD $44,990 – $44,990"
-year_range: "2026 – 2027"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 54
+median_price_aud: 38884
+price_range_aud: "AUD $35,888 – $45,410"
+year_range: "2025 – 2027"
+median_odometer_km: 10
 keywords: [geely, starray, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Geely, Starray]
 ---

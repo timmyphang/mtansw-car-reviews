@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the LDV Terron 9 — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__terron-9.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 15
 median_price_aud: 47990
 price_range_aud: "AUD $43,888 – $53,720"

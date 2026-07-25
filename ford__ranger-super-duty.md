@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Ford Ranger Super Duty — r
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger-super-duty.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 45
-median_price_aud: 96290
+last_updated: "2026-07-25"
+active_listings_nsw: 47
+median_price_aud: 95600
 price_range_aud: "AUD $88,300 – $113,990"
-year_range: "2025 – 2026"
+year_range: "2000 – 2026"
 median_odometer_km: 25
 keywords: [ford, ranger super duty, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Ranger Super Duty]

@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Leapmotor C10 — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/leapmotor__c10.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 13
 median_price_aud: 47085
 price_range_aud: "AUD $46,480 – $50,990"

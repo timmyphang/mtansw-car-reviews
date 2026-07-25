@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Kluger — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__kluger.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 20495
-price_range_aud: "AUD $15,995 – $24,995"
-year_range: "2013 – 2019"
-median_odometer_km: 112765
+last_updated: "2026-07-25"
+active_listings_nsw: 44
+median_price_aud: 52439
+price_range_aud: "AUD $15,995 – $76,990"
+year_range: "2013 – 2025"
+median_odometer_km: 52220
 keywords: [toyota, kluger, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Kluger]
 ---

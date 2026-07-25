@@ -2,13 +2,13 @@
 title: MTA NSW Used Car Reviews
 description: Table of contents for all used car buyer's guides
 locale: en-AU
-release: "2026-07-24"
+release: "2026-07-25"
 doc_type: toc
 ---
 
 # MTA NSW Used Car Reviews
 
-_365 reviews updated 2026-07-24._
+_365 reviews updated 2026-07-25._
 
 ## Abarth
 
@@ -18,7 +18,7 @@ _365 reviews updated 2026-07-24._
 
 ## Alfa Romeo
 
-- [Alfa Romeo Giulia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__giulia.md) — 14 listings, median 144388 AUD
+- [Alfa Romeo Giulia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__giulia.md) — 15 listings, median 143888 AUD
 - [Alfa Romeo Giulietta Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__giulietta.md) — 0 listings, median 0 AUD
 - [Alfa Romeo Junior Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__junior.md) — 28 listings, median 51990 AUD
 - [Alfa Romeo Stelvio Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/alfa-romeo__stelvio.md) — 13 listings, median 75939 AUD
@@ -26,42 +26,42 @@ _365 reviews updated 2026-07-24._
 
 ## Audi
 
-- [Audi A3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a3.md) — 1 listings, median 11830 AUD
+- [Audi A3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a3.md) — 2 listings, median 6190 AUD
 - [Audi A4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a4.md) — 2 listings, median 30675 AUD
 - [Audi A5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a5.md) — 2 listings, median 42439 AUD
 - [Audi A6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a6.md) — 1 listings, median 0 AUD
-- [Audi A8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a8.md) — 0 listings, median 0 AUD
+- [Audi A8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a8.md) — 1 listings, median 550 AUD
 - [Audi Q2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q2.md) — 1 listings, median 32950 AUD
 - [Audi Q3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q3.md) — 1 listings, median 22490 AUD
-- [Audi Q5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q5.md) — 6 listings, median 28898 AUD
-- [Audi Q7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q7.md) — 2 listings, median 64970 AUD
+- [Audi Q5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q5.md) — 7 listings, median 28800 AUD
+- [Audi Q7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q7.md) — 3 listings, median 39990 AUD
 - [Audi Rs4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__rs4.md) — 1 listings, median 108880 AUD
 - [Audi Sq5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__sq5.md) — 4 listings, median 52895 AUD
 - [Audi Sq7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__sq7.md) — 1 listings, median 139880 AUD
 
 ## BMW
 
-- [BMW 1 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__1-series.md) — 5 listings, median 33888 AUD
-- [BMW 2 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__2-series.md) — 5 listings, median 35690 AUD
-- [BMW 3 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__3-series.md) — 7 listings, median 41388 AUD
+- [BMW 1 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__1-series.md) — 6 listings, median 31388 AUD
+- [BMW 2 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__2-series.md) — 7 listings, median 29990 AUD
+- [BMW 3 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__3-series.md) — 12 listings, median 33388 AUD
 - [BMW 5 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__5-series.md) — 4 listings, median 46439 AUD
-- [BMW 6 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__6-series.md) — 1 listings, median 36999 AUD
+- [BMW 6 Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__6-series.md) — 2 listings, median 18774 AUD
 - [BMW I5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__i5.md) — 1 listings, median 105799 AUD
 - [BMW iX1 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__ix1.md) — 2 listings, median 57945 AUD
-- [BMW M3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__m3.md) — 0 listings, median 0 AUD
+- [BMW M3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__m3.md) — 1 listings, median 550 AUD
 - [BMW M5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__m5.md) — 1 listings, median 149990 AUD
-- [BMW X1 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x1.md) — 1 listings, median 12995 AUD
+- [BMW X1 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x1.md) — 7 listings, median 27932 AUD
 - [BMW X2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x2.md) — 3 listings, median 39990 AUD
-- [BMW X3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x3.md) — 12 listings, median 42819 AUD
+- [BMW X3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x3.md) — 16 listings, median 32415 AUD
 - [BMW X4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x4.md) — 4 listings, median 50844 AUD
-- [BMW X5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x5.md) — 7 listings, median 63888 AUD
-- [BMW X6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x6.md) — 5 listings, median 62888 AUD
+- [BMW X5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x5.md) — 10 listings, median 50439 AUD
+- [BMW X6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x6.md) — 8 listings, median 28990 AUD
 - [BMW X7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x7.md) — 1 listings, median 159880 AUD
 
 ## BYD
 
 - [BYD Atto 1 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__atto-1.md) — 2 listings, median 26301 AUD
-- [BYD Atto 3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__atto-3.md) — 1 listings, median 32990 AUD
+- [BYD Atto 3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__atto-3.md) — 4 listings, median 33490 AUD
 - [BYD Seal Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__seal.md) — 0 listings, median 0 AUD
 - [BYD Sealion 7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__sealion-7.md) — 4 listings, median 63367 AUD
 - [BYD Sealion 8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/byd__sealion-8.md) — 1 listings, median 70888 AUD
@@ -75,14 +75,14 @@ _365 reviews updated 2026-07-24._
 
 ## CUPRA
 
-- [CUPRA Formentor Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/cupra__formentor.md) — 1 listings, median 38800 AUD
+- [CUPRA Formentor Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/cupra__formentor.md) — 6 listings, median 42489 AUD
 - [CUPRA Terramar Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/cupra__terramar.md) — 1 listings, median 62990 AUD
 
 ## Chery
 
-- [Chery C5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__c5.md) — 2 listings, median 13745 AUD
+- [Chery C5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__c5.md) — 6 listings, median 28490 AUD
 - [Chery Omoda 5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__omoda-5.md) — 4 listings, median 22939 AUD
-- [Chery Tiggo 4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-4.md) — 1 listings, median 0 AUD
+- [Chery Tiggo 4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-4.md) — 3 listings, median 27490 AUD
 - [Chery Tiggo 8 Pro Max Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-8-pro-max.md) — 5 listings, median 30880 AUD
 - [Chery Tiggo 8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/chery__tiggo-8.md) — 0 listings, median 0 AUD
 
@@ -103,34 +103,34 @@ _365 reviews updated 2026-07-24._
 ## Ford
 
 - [Ford E-Transit Custom Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__e-transit-custom.md) — 1 listings, median 82290 AUD
-- [Ford Escape Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__escape.md) — 1 listings, median 7995 AUD
-- [Ford Everest Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__everest.md) — 1 listings, median 17990 AUD
-- [Ford F-150 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__f-150.md) — 14 listings, median 115750 AUD
+- [Ford Escape Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__escape.md) — 9 listings, median 19490 AUD
+- [Ford Everest Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__everest.md) — 205 listings, median 61990 AUD
+- [Ford F-150 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__f-150.md) — 15 listings, median 119375 AUD
 - [Ford Falcon Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__falcon.md) — 0 listings, median 0 AUD
-- [Ford Fiesta Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__fiesta.md) — 1 listings, median 0 AUD
-- [Ford Focus Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__focus.md) — 1 listings, median 7995 AUD
+- [Ford Fiesta Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__fiesta.md) — 2 listings, median 4498 AUD
+- [Ford Focus Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__focus.md) — 9 listings, median 17990 AUD
 - [Ford Kuga Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__kuga.md) — 0 listings, median 0 AUD
 - [Ford Mustang Mach-E Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__mustang-mach-e.md) — 13 listings, median 72990 AUD
-- [Ford Mustang Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__mustang.md) — 4 listings, median 80995 AUD
+- [Ford Mustang Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__mustang.md) — 67 listings, median 75880 AUD
 - [Ford Puma Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__puma.md) — 3 listings, median 20888 AUD
-- [Ford Ranger Super Duty Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger-super-duty.md) — 45 listings, median 96290 AUD
-- [Ford Ranger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger.md) — 3 listings, median 52995 AUD
+- [Ford Ranger Super Duty Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger-super-duty.md) — 47 listings, median 95600 AUD
+- [Ford Ranger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__ranger.md) — 523 listings, median 54990 AUD
 - [Ford Territory Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__territory.md) — 1 listings, median 8900 AUD
-- [Ford Tourneo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__tourneo.md) — 2 listings, median 61425 AUD
-- [Ford Transit Custom Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__transit-custom.md) — 2 listings, median 30450 AUD
+- [Ford Tourneo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__tourneo.md) — 4 listings, median 65920 AUD
+- [Ford Transit Custom Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__transit-custom.md) — 18 listings, median 35970 AUD
 - [Ford Transit Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__transit.md) — 3 listings, median 56990 AUD
 
 ## GWM
 
 - [GWM Cannon Alpha Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__cannon-alpha.md) — 15 listings, median 58490 AUD
 - [GWM Cannon Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__cannon.md) — 29 listings, median 43990 AUD
-- [GWM H2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h2.md) — 0 listings, median 0 AUD
-- [GWM H6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h6.md) — 1 listings, median 20999 AUD
-- [GWM Haval H6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h6.md) — 51 listings, median 38400 AUD
-- [GWM Haval H6GT Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h6gt.md) — 19 listings, median 43990 AUD
+- [GWM H2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h2.md) — 2 listings, median 15992 AUD
+- [GWM H6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h6.md) — 5 listings, median 21990 AUD
+- [GWM Haval H6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h6.md) — 68 listings, median 38990 AUD
+- [GWM Haval H6GT Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h6gt.md) — 20 listings, median 43490 AUD
 - [GWM Haval H7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h7.md) — 2 listings, median 41490 AUD
-- [GWM Haval-Jolion Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-jolion.md) — 1 listings, median 22800 AUD
-- [GWM Jolion Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__jolion.md) — 2 listings, median 17884 AUD
+- [GWM Haval Jolion Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-jolion.md) — 77 listings, median 25990 AUD
+- [GWM Jolion Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__jolion.md) — 4 listings, median 19419 AUD
 - [GWM Ora 5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__ora-5.md) — 10 listings, median 36990 AUD
 - [GWM Steed Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__steed.md) — 0 listings, median 0 AUD
 - [GWM Tank 300 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__tank-300.md) — 26 listings, median 50990 AUD
@@ -140,8 +140,8 @@ _365 reviews updated 2026-07-24._
 
 ## Geely
 
-- [Geely Ex5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__ex5.md) — 41 listings, median 44888 AUD
-- [Geely Starray Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__starray.md) — 9 listings, median 44990 AUD
+- [Geely Ex5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__ex5.md) — 89 listings, median 49860 AUD
+- [Geely Starray Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/geely__starray.md) — 54 listings, median 38884 AUD
 
 ## Genesis
 
@@ -149,61 +149,61 @@ _365 reviews updated 2026-07-24._
 
 ## Holden
 
-- [Holden Acadia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__acadia.md) — 0 listings, median 0 AUD
-- [Holden Astra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__astra.md) — 1 listings, median 6665 AUD
-- [Holden Barina Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__barina.md) — 1 listings, median 6990 AUD
+- [Holden Acadia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__acadia.md) — 1 listings, median 24995 AUD
+- [Holden Astra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__astra.md) — 6 listings, median 14490 AUD
+- [Holden Barina Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__barina.md) — 2 listings, median 10492 AUD
 - [Holden Berlina Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__berlina.md) — 0 listings, median 0 AUD
 - [Holden Calais Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__calais.md) — 3 listings, median 67990 AUD
 - [Holden Caprice Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__caprice.md) — 0 listings, median 0 AUD
-- [Holden Captiva Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__captiva.md) — 2 listings, median 7985 AUD
-- [Holden Clubsport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__clubsport.md) — 0 listings, median 0 AUD
-- [Holden Colorado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__colorado.md) — 3 listings, median 13990 AUD
-- [Holden Commodore Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__commodore.md) — 1 listings, median 72995 AUD
+- [Holden Captiva Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__captiva.md) — 9 listings, median 8995 AUD
+- [Holden Clubsport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__clubsport.md) — 1 listings, median 44888 AUD
+- [Holden Colorado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__colorado.md) — 28 listings, median 26970 AUD
+- [Holden Commodore Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__commodore.md) — 15 listings, median 22995 AUD
 - [Holden Cruze Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__cruze.md) — 1 listings, median 5990 AUD
 - [Holden Equinox Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__equinox.md) — 1 listings, median 17990 AUD
-- [Holden Gts Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__gts.md) — 0 listings, median 0 AUD
-- [Holden Monaro Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__monaro.md) — 1 listings, median 61999 AUD
+- [Holden GTS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__gts.md) — 2 listings, median 129994 AUD
+- [Holden Monaro Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__monaro.md) — 2 listings, median 60997 AUD
 - [Holden Rodeo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__rodeo.md) — 1 listings, median 0 AUD
 - [Holden Statesman Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__statesman.md) — 0 listings, median 0 AUD
 - [Holden Trailblazer Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__trailblazer.md) — 3 listings, median 31990 AUD
-- [Holden Trax Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__trax.md) — 1 listings, median 7995 AUD
-- [Holden Ute Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__ute.md) — 1 listings, median 0 AUD
+- [Holden Trax Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__trax.md) — 6 listings, median 11494 AUD
+- [Holden Ute Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__ute.md) — 2 listings, median 49990 AUD
 
 ## Honda
 
-- [Honda Accord Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__accord.md) — 1 listings, median 33990 AUD
+- [Honda Accord Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__accord.md) — 2 listings, median 22992 AUD
 - [Honda Civic Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__civic.md) — 5 listings, median 21950 AUD
 - [Honda CR-V Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__cr-v.md) — 31 listings, median 28990 AUD
-- [Honda HR-V Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__hr-v.md) — 1 listings, median 22995 AUD
+- [Honda HR-V Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__hr-v.md) — 19 listings, median 22995 AUD
 - [Honda Insight Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__insight.md) — 0 listings, median 0 AUD
-- [Honda Jazz Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__jazz.md) — 1 listings, median 17888 AUD
-- [Honda Odyssey Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__odyssey.md) — 1 listings, median 29990 AUD
+- [Honda Jazz Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__jazz.md) — 2 listings, median 16938 AUD
+- [Honda Odyssey Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__odyssey.md) — 2 listings, median 31995 AUD
 - [Honda ZR-V Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/honda__zr-v.md) — 9 listings, median 41990 AUD
 
 ## Hyundai
 
-- [Hyundai Accent Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__accent.md) — 1 listings, median 0 AUD
+- [Hyundai Accent Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__accent.md) — 6 listings, median 10492 AUD
 - [Hyundai Elantra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__elantra.md) — 3 listings, median 12990 AUD
 - [Hyundai Getz Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__getz.md) — 0 listings, median 0 AUD
-- [Hyundai I20 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i20.md) — 2 listings, median 42388 AUD
-- [Hyundai I30 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i30.md) — 1 listings, median 12800 AUD
-- [Hyundai iLoad Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__iload.md) — 2 listings, median 24419 AUD
+- [Hyundai I20 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i20.md) — 4 listings, median 42388 AUD
+- [Hyundai I30 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i30.md) — 55 listings, median 23420 AUD
+- [Hyundai iLoad Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__iload.md) — 4 listings, median 24950 AUD
 - [Hyundai iMax Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__imax.md) — 2 listings, median 20439 AUD
-- [Hyundai iX35 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__ix35.md) — 1 listings, median 10995 AUD
-- [Hyundai Kona Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__kona.md) — 1 listings, median 22990 AUD
-- [Hyundai Palisade Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__palisade.md) — 16 listings, median 54490 AUD
-- [Hyundai Santa Fe Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__santa-fe.md) — 1 listings, median 14995 AUD
-- [Hyundai Sonata Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__sonata.md) — 1 listings, median 4750 AUD
+- [Hyundai Ix35 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__ix35.md) — 6 listings, median 14990 AUD
+- [Hyundai Kona Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__kona.md) — 98 listings, median 34295 AUD
+- [Hyundai Palisade Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__palisade.md) — 18 listings, median 60990 AUD
+- [Hyundai Santa Fe Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__santa-fe.md) — 57 listings, median 35606 AUD
+- [Hyundai Sonata Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__sonata.md) — 10 listings, median 37490 AUD
 - [Hyundai Staria Load Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__staria-load.md) — 9 listings, median 49990 AUD
-- [Hyundai Staria Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__staria.md) — 2 listings, median 51490 AUD
-- [Hyundai Tucson Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__tucson.md) — 4 listings, median 17995 AUD
+- [Hyundai Staria Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__staria.md) — 15 listings, median 51490 AUD
+- [Hyundai Tucson Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__tucson.md) — 149 listings, median 34990 AUD
 - [Hyundai Veloster Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__veloster.md) — 1 listings, median 16900 AUD
-- [Hyundai Venue Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__venue.md) — 1 listings, median 14995 AUD
+- [Hyundai Venue Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__venue.md) — 36 listings, median 26170 AUD
 
 ## ISUZU
 
-- [ISUZU D-MAX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__d-max.md) — 38 listings, median 65490 AUD
-- [ISUZU MU-X Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__mu-x.md) — 22 listings, median 75240 AUD
+- [ISUZU D-MAX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__d-max.md) — 132 listings, median 56888 AUD
+- [ISUZU MU-X Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__mu-x.md) — 92 listings, median 59939 AUD
 
 ## Iveco
 
@@ -218,49 +218,49 @@ _365 reviews updated 2026-07-24._
 - [Jaguar E-Pace Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__e-pace.md) — 3 listings, median 24990 AUD
 - [Jaguar F Pace Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__f-pace.md) — 0 listings, median 0 AUD
 - [Jaguar F-Type Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__f-type.md) — 1 listings, median 165990 AUD
-- [Jaguar Xf Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xf.md) — 0 listings, median 0 AUD
-- [Jaguar Xj Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xj.md) — 0 listings, median 0 AUD
-- [Jaguar Xjs Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xjs.md) — 0 listings, median 0 AUD
+- [Jaguar XF Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xf.md) — 0 listings, median 0 AUD
+- [Jaguar XJ Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xj.md) — 0 listings, median 0 AUD
+- [Jaguar XJS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xjs.md) — 0 listings, median 0 AUD
 - [Jaguar Xk8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xk8.md) — 0 listings, median 0 AUD
 
 ## Jeep
 
-- [Jeep Avenger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__avenger.md) — 3 listings, median 46888 AUD
-- [Jeep Cherokee Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__cherokee.md) — 4 listings, median 16490 AUD
-- [Jeep Compass Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__compass.md) — 1 listings, median 14995 AUD
-- [Jeep Gladiator Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__gladiator.md) — 3 listings, median 69939 AUD
-- [Jeep Grand Cherokee Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__grand-cherokee.md) — 1 listings, median 13990 AUD
-- [Jeep Wrangler Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__wrangler.md) — 5 listings, median 82888 AUD
+- [Jeep Avenger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__avenger.md) — 4 listings, median 44939 AUD
+- [Jeep Cherokee Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__cherokee.md) — 5 listings, median 11990 AUD
+- [Jeep Compass Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__compass.md) — 7 listings, median 25985 AUD
+- [Jeep Gladiator Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__gladiator.md) — 6 listings, median 88990 AUD
+- [Jeep Grand Cherokee Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__grand-cherokee.md) — 13 listings, median 34888 AUD
+- [Jeep Wrangler Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__wrangler.md) — 12 listings, median 84750 AUD
 
 ## KIA
 
-- [KIA K4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__k4.md) — 4 listings, median 48120 AUD
-- [KIA Picanto Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__picanto.md) — 2 listings, median 24990 AUD
-- [KIA Seltos Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__seltos.md) — 2 listings, median 19990 AUD
-- [KIA Sorento Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sorento.md) — 5 listings, median 73500 AUD
-- [KIA Sportage Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sportage.md) — 9 listings, median 52500 AUD
-- [KIA Tasman Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__tasman.md) — 6 listings, median 58990 AUD
+- [KIA Optima Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__optima.md) — 0 listings, median 0 AUD
 
 ## Kia
 
-- [Kia Carnival Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__carnival.md) — 1 listings, median 19995 AUD
-- [Kia Cerato Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__cerato.md) — 1 listings, median 12888 AUD
+- [Kia Carnival Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__carnival.md) — 44 listings, median 46435 AUD
+- [Kia Cerato Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__cerato.md) — 57 listings, median 19990 AUD
 - [Kia Ev3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__ev3.md) — 3 listings, median 53865 AUD
 - [Kia Ev5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__ev5.md) — 4 listings, median 50970 AUD
 - [Kia Ev6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__ev6.md) — 1 listings, median 51990 AUD
 - [Kia Grand Carnival Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__grand-carnival.md) — 1 listings, median 13888 AUD
-- [Kia Optima Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__optima.md) — 0 listings, median 0 AUD
+- [Kia K4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__k4.md) — 14 listings, median 37220 AUD
+- [Kia Picanto Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__picanto.md) — 20 listings, median 20990 AUD
 - [Kia Rio Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__rio.md) — 9 listings, median 19888 AUD
+- [Kia Seltos Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__seltos.md) — 28 listings, median 25990 AUD
+- [Kia Sorento Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sorento.md) — 51 listings, median 50990 AUD
 - [Kia Soul Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__soul.md) — 1 listings, median 0 AUD
+- [Kia Sportage Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sportage.md) — 98 listings, median 37850 AUD
 - [Kia Stinger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__stinger.md) — 7 listings, median 49990 AUD
 - [Kia Stonic Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__stonic.md) — 16 listings, median 21939 AUD
+- [Kia Tasman Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__tasman.md) — 20 listings, median 55725 AUD
 
 ## LDV
 
 - [LDV D90 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__d90.md) — 25 listings, median 40990 AUD
-- [LDV Deliver 9 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__deliver-9.md) — 8 listings, median 57939 AUD
+- [LDV Deliver 9 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__deliver-9.md) — 9 listings, median 62990 AUD
 - [LDV G10 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__g10.md) — 4 listings, median 37490 AUD
-- [LDV T60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__t60.md) — 1 listings, median 19999 AUD
+- [LDV T60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__t60.md) — 42 listings, median 41490 AUD
 - [LDV Terron 9 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__terron-9.md) — 15 listings, median 47990 AUD
 - [LDV V80 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__v80.md) — 0 listings, median 0 AUD
 
@@ -272,15 +272,12 @@ _365 reviews updated 2026-07-24._
 ## Land Rover
 
 - [Land Rover Defender Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__defender.md) — 13 listings, median 172880 AUD
-- [Land Rover Discovery Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery-sport.md) — 1 listings, median 15995 AUD
-- [Land Rover Discovery Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery.md) — 2 listings, median 45300 AUD
-- [Land Rover Range Rover Evoque Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-evoque.md) — 2 listings, median 59740 AUD
+- [Land Rover Discovery Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery-sport.md) — 4 listings, median 25398 AUD
+- [Land Rover Discovery Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__discovery.md) — 5 listings, median 2060 AUD
+- [Land Rover Range Rover Evoque Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-evoque.md) — 6 listings, median 1230 AUD
+- [Land Rover Range Rover Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-sport.md) — 11 listings, median 104740 AUD
 - [Land Rover Range Rover Velar Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-velar.md) — 2 listings, median 53840 AUD
 - [Land Rover Range Rover Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover.md) — 2 listings, median 178939 AUD
-
-## Land-Rover
-
-- [Land-Rover Range-Rover-Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-sport.md) — 1 listings, median 34750 AUD
 
 ## Leapmotor
 
@@ -290,22 +287,22 @@ _365 reviews updated 2026-07-24._
 ## Lexus
 
 - [Lexus CT Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ct.md) — 1 listings, median 25490 AUD
-- [Lexus Es Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__es.md) — 0 listings, median 0 AUD
-- [Lexus Gx Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__gx.md) — 0 listings, median 0 AUD
-- [Lexus Is Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__is.md) — 0 listings, median 0 AUD
-- [Lexus LBX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lbx.md) — 2 listings, median 53939 AUD
-- [Lexus Lm Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lm.md) — 0 listings, median 0 AUD
-- [Lexus Ls Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ls.md) — 0 listings, median 0 AUD
-- [Lexus LX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lx.md) — 1 listings, median 136824 AUD
-- [Lexus NX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__nx.md) — 2 listings, median 53419 AUD
-- [Lexus RX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__rx.md) — 7 listings, median 82888 AUD
-- [Lexus UX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ux.md) — 2 listings, median 45419 AUD
+- [Lexus ES Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__es.md) — 3 listings, median 49932 AUD
+- [Lexus GX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__gx.md) — 2 listings, median 139966 AUD
+- [Lexus IS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__is.md) — 1 listings, median 25932 AUD
+- [Lexus LBX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lbx.md) — 4 listings, median 54461 AUD
+- [Lexus LM Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lm.md) — 1 listings, median 159932 AUD
+- [Lexus LS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ls.md) — 0 listings, median 0 AUD
+- [Lexus LX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lx.md) — 4 listings, median 192994 AUD
+- [Lexus NX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__nx.md) — 52 listings, median 79932 AUD
+- [Lexus RX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__rx.md) — 40 listings, median 89910 AUD
+- [Lexus UX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__ux.md) — 6 listings, median 51944 AUD
 
 ## MG
 
-- [MG HS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__hs.md) — 19 listings, median 18990 AUD
+- [MG HS Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__hs.md) — 22 listings, median 18990 AUD
 - [MG Im5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__im5.md) — 3 listings, median 72660 AUD
-- [MG Mg3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg3.md) — 20 listings, median 16990 AUD
+- [MG Mg3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg3.md) — 22 listings, median 16990 AUD
 - [MG Mg4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg4.md) — 6 listings, median 29950 AUD
 - [MG Mg5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg5.md) — 1 listings, median 18995 AUD
 - [MG Mg7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__mg7.md) — 1 listings, median 0 AUD
@@ -320,82 +317,82 @@ _365 reviews updated 2026-07-24._
 ## Maserati
 
 - [Maserati GranCabrio Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__grancabrio.md) — 3 listings, median 399880 AUD
-- [Maserati Granturismo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__granturismo.md) — 1 listings, median 379880 AUD
+- [Maserati GranTurismo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__granturismo.md) — 2 listings, median 374880 AUD
 - [Maserati Grecale Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__grecale.md) — 23 listings, median 138880 AUD
-- [Maserati Levante Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__levante.md) — 5 listings, median 69880 AUD
+- [Maserati Levante Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__levante.md) — 7 listings, median 82990 AUD
 
 ## Mazda
 
-- [Mazda 2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__2.md) — 15 listings, median 15990 AUD
-- [Mazda 3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__3.md) — 1 listings, median 13990 AUD
+- [Mazda 2 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__2.md) — 20 listings, median 20990 AUD
+- [Mazda 3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__3.md) — 30 listings, median 26939 AUD
 - [Mazda 6 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__6.md) — 5 listings, median 26990 AUD
 - [Mazda B Series Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__b-series.md) — 1 listings, median 69185 AUD
-- [Mazda BT-50 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__bt-50.md) — 7 listings, median 61490 AUD
-- [Mazda Cx-3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-3.md) — 3 listings, median 38466 AUD
-- [Mazda CX-30 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-30.md) — 1 listings, median 38990 AUD
-- [Mazda CX-5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-5.md) — 2 listings, median 9555 AUD
-- [Mazda Cx-60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-60.md) — 1 listings, median 73452 AUD
+- [Mazda BT-50 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__bt-50.md) — 70 listings, median 44990 AUD
+- [Mazda CX-3 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-3.md) — 65 listings, median 24839 AUD
+- [Mazda CX-30 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-30.md) — 60 listings, median 34235 AUD
+- [Mazda CX-5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-5.md) — 141 listings, median 34439 AUD
+- [Mazda CX-60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-60.md) — 28 listings, median 49990 AUD
 - [Mazda CX-7 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-7.md) — 1 listings, median 11990 AUD
 - [Mazda CX-8 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-8.md) — 14 listings, median 30490 AUD
-- [Mazda Cx-80 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-80.md) — 1 listings, median 68990 AUD
+- [Mazda CX-80 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-80.md) — 9 listings, median 57880 AUD
 - [Mazda CX-9 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-9.md) — 23 listings, median 31990 AUD
 - [Mazda CX-90 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-90.md) — 3 listings, median 57490 AUD
 - [Mazda CX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx.md) — 18 listings, median 45255 AUD
 - [Mazda MX-30 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__mx-30.md) — 2 listings, median 26695 AUD
-- [Mazda MX-5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__mx-5.md) — 2 listings, median 42990 AUD
+- [Mazda MX-5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__mx-5.md) — 3 listings, median 55990 AUD
 
 ## Mercedes Benz
 
 - [Mercedes Benz Cl Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__cl-class.md) — 0 listings, median 0 AUD
 - [Mercedes Benz Cls Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__cls-class.md) — 0 listings, median 0 AUD
-- [Mercedes Benz Gls Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gls-class.md) — 0 listings, median 0 AUD
 - [Mercedes Benz M Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__m-class.md) — 0 listings, median 0 AUD
 - [Mercedes Benz R Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__r-class.md) — 0 listings, median 0 AUD
-- [Mercedes Benz S Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__s-class.md) — 0 listings, median 0 AUD
-- [Mercedes Benz Sl Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__sl-class.md) — 0 listings, median 0 AUD
 
 ## Mercedes-Benz
 
-- [Mercedes-Benz A-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__a-class.md) — 5 listings, median 33490 AUD
-- [Mercedes-Benz Amg Gt Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__amg-gt.md) — 2 listings, median 175990 AUD
-- [Mercedes-Benz B-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__b-class.md) — 1 listings, median 26888 AUD
-- [Mercedes-Benz C-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__c-class.md) — 1 listings, median 6490 AUD
+- [Mercedes-Benz A-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__a-class.md) — 6 listings, median 37740 AUD
+- [Mercedes-Benz Amg Gt Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__amg-gt.md) — 3 listings, median 88270 AUD
+- [Mercedes-Benz B-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__b-class.md) — 2 listings, median 20442 AUD
+- [Mercedes-Benz C-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__c-class.md) — 8 listings, median 32490 AUD
 - [Mercedes-Benz CLA-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__cla-class.md) — 2 listings, median 57189 AUD
-- [Mercedes-Benz E-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__e-class.md) — 3 listings, median 50990 AUD
-- [Mercedes-Benz GLA-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gla-class.md) — 4 listings, median 37439 AUD
-- [Mercedes-Benz GLB-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__glb-class.md) — 3 listings, median 36390 AUD
-- [Mercedes-Benz GLC-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__glc-class.md) — 2 listings, median 58490 AUD
-- [Mercedes-Benz GLE-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gle-class.md) — 9 listings, median 64939 AUD
-- [Mercedes-Benz Sprinter Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__sprinter.md) — 1 listings, median 46888 AUD
+- [Mercedes-Benz E-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__e-class.md) — 5 listings, median 22990 AUD
+- [Mercedes-Benz GLA-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gla-class.md) — 9 listings, median 31990 AUD
+- [Mercedes-Benz GLB-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__glb-class.md) — 4 listings, median 38194 AUD
+- [Mercedes-Benz GLC-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__glc-class.md) — 8 listings, median 41432 AUD
+- [Mercedes-Benz GLE-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gle-class.md) — 14 listings, median 47990 AUD
+- [Mercedes-Benz GLS-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gls-class.md) — 1 listings, median 550 AUD
+- [Mercedes-Benz S-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__s-class.md) — 1 listings, median 130000 AUD
+- [Mercedes-Benz SL-Class Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__sl-class.md) — 1 listings, median 48800 AUD
+- [Mercedes-Benz Sprinter Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__sprinter.md) — 3 listings, median 49950 AUD
 
 ## Mini
 
 - [Mini Clubman Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__clubman.md) — 2 listings, median 42425 AUD
 - [Mini Cooper Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__cooper.md) — 0 listings, median 0 AUD
 - [Mini Countryman Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__countryman.md) — 2 listings, median 53470 AUD
-- [Mini Hatch Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__hatch.md) — 1 listings, median 13900 AUD
+- [Mini Hatch Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__hatch.md) — 2 listings, median 7350 AUD
 
 ## Mitsubishi
 
-- [Mitsubishi ASX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__asx.md) — 7 listings, median 29490 AUD
+- [Mitsubishi ASX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__asx.md) — 67 listings, median 23939 AUD
 - [Mitsubishi Challenger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__challenger.md) — 1 listings, median 7990 AUD
-- [Mitsubishi Eclipse Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__eclipse-cross.md) — 1 listings, median 34990 AUD
+- [Mitsubishi Eclipse Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__eclipse-cross.md) — 20 listings, median 26140 AUD
 - [Mitsubishi Lancer Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__lancer.md) — 1 listings, median 8995 AUD
-- [Mitsubishi Outlander Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__outlander.md) — 1 listings, median 8995 AUD
-- [Mitsubishi Pajero Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero-sport.md) — 1 listings, median 0 AUD
-- [Mitsubishi Pajero Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero.md) — 1 listings, median 28995 AUD
-- [Mitsubishi Triton Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__triton.md) — 3 listings, median 16950 AUD
+- [Mitsubishi Outlander Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__outlander.md) — 125 listings, median 44990 AUD
+- [Mitsubishi Pajero Sport Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero-sport.md) — 44 listings, median 40990 AUD
+- [Mitsubishi Pajero Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero.md) — 7 listings, median 28995 AUD
+- [Mitsubishi Triton Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__triton.md) — 119 listings, median 39990 AUD
 
 ## Nissan
 
 - [Nissan Dualis Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__dualis.md) — 0 listings, median 0 AUD
-- [Nissan Juke Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__juke.md) — 10 listings, median 23470 AUD
-- [Nissan Navara Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__navara.md) — 1 listings, median 19900 AUD
-- [Nissan Pathfinder Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__pathfinder.md) — 4 listings, median 34439 AUD
-- [Nissan Patrol Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__patrol.md) — 11 listings, median 109500 AUD
-- [Nissan Qashqai Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__qashqai.md) — 3 listings, median 42995 AUD
+- [Nissan Juke Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__juke.md) — 12 listings, median 24470 AUD
+- [Nissan Navara Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__navara.md) — 64 listings, median 36990 AUD
+- [Nissan Pathfinder Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__pathfinder.md) — 6 listings, median 53388 AUD
+- [Nissan Patrol Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__patrol.md) — 53 listings, median 104423 AUD
+- [Nissan Qashqai Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__qashqai.md) — 26 listings, median 21939 AUD
 - [Nissan Tiida Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__tiida.md) — 1 listings, median 7995 AUD
-- [Nissan X-Trail Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__x-trail.md) — 1 listings, median 15990 AUD
+- [Nissan X-Trail Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__x-trail.md) — 83 listings, median 29990 AUD
 
 ## Peugeot
 
@@ -407,36 +404,33 @@ _365 reviews updated 2026-07-24._
 ## Porsche
 
 - [Porsche 718 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__718.md) — 4 listings, median 140900 AUD
-- [Porsche 911 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__911.md) — 7 listings, median 349990 AUD
+- [Porsche 911 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__911.md) — 8 listings, median 321445 AUD
 - [Porsche Boxster Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__boxster.md) — 0 listings, median 0 AUD
-- [Porsche Cayenne Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__cayenne.md) — 10 listings, median 161900 AUD
-- [Porsche Macan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__macan.md) — 1 listings, median 59950 AUD
+- [Porsche Cayenne Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__cayenne.md) — 11 listings, median 152400 AUD
+- [Porsche Macan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__macan.md) — 7 listings, median 114880 AUD
 - [Porsche Panamera Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__panamera.md) — 2 listings, median 254900 AUD
 
 ## RAM
 
-- [RAM 2500 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ram__2500.md) — 2 listings, median 149990 AUD
-
-## Ram
-
-- [Ram 1500 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ram__1500.md) — 1 listings, median 86990 AUD
+- [RAM 1500 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ram__1500.md) — 49 listings, median 136569 AUD
+- [RAM 2500 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ram__2500.md) — 4 listings, median 159990 AUD
 
 ## Renault
 
 - [Renault Arkana Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__arkana.md) — 6 listings, median 34450 AUD
 - [Renault Captur Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__captur.md) — 4 listings, median 18740 AUD
 - [Renault Duster Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__duster.md) — 4 listings, median 39990 AUD
-- [Renault Kangoo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__kangoo.md) — 1 listings, median 18950 AUD
-- [Renault Koleos Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__koleos.md) — 1 listings, median 17995 AUD
-- [Renault Megane Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__megane.md) — 2 listings, median 20419 AUD
-- [Renault Trafic Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__trafic.md) — 1 listings, median 12800 AUD
+- [Renault Kangoo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__kangoo.md) — 5 listings, median 39990 AUD
+- [Renault Koleos Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__koleos.md) — 10 listings, median 19990 AUD
+- [Renault Megane Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__megane.md) — 6 listings, median 41639 AUD
+- [Renault Trafic Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__trafic.md) — 7 listings, median 32990 AUD
 
 ## SKODA
 
-- [SKODA Fabia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__fabia.md) — 1 listings, median 14888 AUD
-- [SKODA Kodiaq Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__kodiaq.md) — 1 listings, median 29950 AUD
+- [SKODA Fabia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__fabia.md) — 4 listings, median 16439 AUD
+- [SKODA Kodiaq Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__kodiaq.md) — 3 listings, median 29950 AUD
 - [SKODA Octavia Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__octavia.md) — 6 listings, median 20470 AUD
-- [SKODA Superb Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__superb.md) — 1 listings, median 20950 AUD
+- [SKODA Superb Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/skoda__superb.md) — 2 listings, median 10750 AUD
 
 ## Ssangyong
 
@@ -447,20 +441,20 @@ _365 reviews updated 2026-07-24._
 ## Subaru
 
 - [Subaru BRZ Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__brz.md) — 1 listings, median 33999 AUD
-- [Subaru Crosstrek Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__crosstrek.md) — 17 listings, median 31490 AUD
-- [Subaru Forester Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__forester.md) — 2 listings, median 13472 AUD
-- [Subaru Impreza Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__impreza.md) — 3 listings, median 22999 AUD
+- [Subaru Crosstrek Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__crosstrek.md) — 18 listings, median 31490 AUD
+- [Subaru Forester Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__forester.md) — 67 listings, median 29990 AUD
+- [Subaru Impreza Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__impreza.md) — 14 listings, median 19990 AUD
 - [Subaru Levorg Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__levorg.md) — 1 listings, median 20990 AUD
-- [Subaru Liberty Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__liberty.md) — 1 listings, median 12990 AUD
-- [Subaru Outback Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__outback.md) — 1 listings, median 16995 AUD
-- [Subaru WRX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__wrx.md) — 2 listings, median 40997 AUD
-- [Subaru XV Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__xv.md) — 2 listings, median 23994 AUD
+- [Subaru Liberty Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__liberty.md) — 3 listings, median 16990 AUD
+- [Subaru Outback Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__outback.md) — 42 listings, median 34490 AUD
+- [Subaru WRX Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__wrx.md) — 17 listings, median 39990 AUD
+- [Subaru XV Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__xv.md) — 18 listings, median 23999 AUD
 
 ## Suzuki
 
 - [Suzuki Baleno Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__baleno.md) — 1 listings, median 14990 AUD
 - [Suzuki Ignis Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__ignis.md) — 5 listings, median 22990 AUD
-- [Suzuki Jimny Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__jimny.md) — 1 listings, median 12900 AUD
+- [Suzuki Jimny Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__jimny.md) — 34 listings, median 37352 AUD
 - [Suzuki S-Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__s-cross.md) — 2 listings, median 17490 AUD
 - [Suzuki Swift Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__swift.md) — 19 listings, median 21990 AUD
 - [Suzuki Vitara Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/suzuki__vitara.md) — 14 listings, median 22835 AUD
@@ -477,46 +471,46 @@ _365 reviews updated 2026-07-24._
 - [Toyota 86 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__86.md) — 1 listings, median 29888 AUD
 - [Toyota Alphard Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__alphard.md) — 1 listings, median 57888 AUD
 - [Toyota Aurion Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__aurion.md) — 0 listings, median 0 AUD
-- [Toyota bZ4X Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__bz4x.md) — 1 listings, median 54888 AUD
-- [Toyota C-HR Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__c-hr.md) — 27 listings, median 28440 AUD
-- [Toyota Camry Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__camry.md) — 1 listings, median 13990 AUD
-- [Toyota Coaster Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__coaster.md) — 3 listings, median 87990 AUD
-- [Toyota Corolla Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla-cross.md) — 16 listings, median 44240 AUD
-- [Toyota Corolla Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla.md) — 1 listings, median 23995 AUD
+- [Toyota bZ4X Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__bz4x.md) — 3 listings, median 54970 AUD
+- [Toyota C-HR Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__c-hr.md) — 29 listings, median 28440 AUD
+- [Toyota Camry Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__camry.md) — 50 listings, median 32490 AUD
+- [Toyota Coaster Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__coaster.md) — 4 listings, median 87990 AUD
+- [Toyota Corolla Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla-cross.md) — 18 listings, median 41494 AUD
+- [Toyota Corolla Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__corolla.md) — 86 listings, median 27990 AUD
 - [Toyota Echo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__echo.md) — 0 listings, median 0 AUD
 - [Toyota Estima Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__estima.md) — 0 listings, median 0 AUD
-- [Toyota Fj Cruiser Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fj-cruiser.md) — 1 listings, median 22990 AUD
-- [Toyota Fortuner Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fortuner.md) — 16 listings, median 39990 AUD
-- [Toyota Hiace Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hiace.md) — 1 listings, median 12990 AUD
-- [Toyota Hilux Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hilux.md) — 1 listings, median 65995 AUD
-- [Toyota Kluger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__kluger.md) — 2 listings, median 20495 AUD
-- [Toyota Landcruiser Prado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser-prado.md) — 1 listings, median 44950 AUD
-- [Toyota Landcruiser Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser.md) — 3 listings, median 77929 AUD
-- [Toyota Prado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__prado.md) — 1 listings, median 57995 AUD
-- [Toyota Rav4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__rav4.md) — 1 listings, median 49932 AUD
-- [Toyota Supra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__supra.md) — 0 listings, median 0 AUD
+- [Toyota FJ Cruiser Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fj-cruiser.md) — 2 listings, median 26492 AUD
+- [Toyota Fortuner Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fortuner.md) — 17 listings, median 39990 AUD
+- [Toyota Hiace Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hiace.md) — 35 listings, median 49990 AUD
+- [Toyota Hilux Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hilux.md) — 163 listings, median 50990 AUD
+- [Toyota Kluger Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__kluger.md) — 44 listings, median 52439 AUD
+- [Toyota Landcruiser Prado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser-prado.md) — 67 listings, median 59990 AUD
+- [Toyota Landcruiser Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__landcruiser.md) — 88 listings, median 98490 AUD
+- [Toyota Prado Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__prado.md) — 9 listings, median 57995 AUD
+- [Toyota Rav4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__rav4.md) — 170 listings, median 40240 AUD
+- [Toyota Supra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__supra.md) — 1 listings, median 99995 AUD
 - [Toyota Tarago Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__tarago.md) — 1 listings, median 0 AUD
 - [Toyota Tundra Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__tundra.md) — 5 listings, median 129990 AUD
-- [Toyota Yaris Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris-cross.md) — 19 listings, median 30950 AUD
-- [Toyota Yaris Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris.md) — 12 listings, median 25939 AUD
+- [Toyota Yaris Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris-cross.md) — 21 listings, median 30990 AUD
+- [Toyota Yaris Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris.md) — 13 listings, median 28888 AUD
 
 ## Volkswagen
 
-- [Volkswagen Amarok Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__amarok.md) — 2 listings, median 0 AUD
-- [Volkswagen Caddy Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__caddy.md) — 1 listings, median 12950 AUD
+- [Volkswagen Amarok Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__amarok.md) — 38 listings, median 45990 AUD
+- [Volkswagen Caddy Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__caddy.md) — 12 listings, median 36950 AUD
 - [Volkswagen Crafter Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__crafter.md) — 3 listings, median 81990 AUD
-- [Volkswagen Golf Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__golf.md) — 1 listings, median 19932 AUD
-- [Volkswagen Id.4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-4.md) — 2 listings, median 0 AUD
-- [Volkswagen Id.5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-5.md) — 1 listings, median 67990 AUD
-- [Volkswagen Id.buzz Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-buzz.md) — 1 listings, median 71990 AUD
-- [Volkswagen Multivan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__multivan.md) — 5 listings, median 62345 AUD
+- [Volkswagen Golf Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__golf.md) — 32 listings, median 33990 AUD
+- [Volkswagen Id.4 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-4.md) — 6 listings, median 64990 AUD
+- [Volkswagen Id.5 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-5.md) — 3 listings, median 64990 AUD
+- [Volkswagen ID. Buzz Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-buzz.md) — 2 listings, median 90990 AUD
+- [Volkswagen Multivan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__multivan.md) — 7 listings, median 55990 AUD
 - [Volkswagen Passat Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__passat.md) — 5 listings, median 22888 AUD
-- [Volkswagen Polo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__polo.md) — 9 listings, median 28490 AUD
-- [Volkswagen T-cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__t-cross.md) — 1 listings, median 28490 AUD
-- [Volkswagen T-roc Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__t-roc.md) — 1 listings, median 40990 AUD
-- [Volkswagen Tayron Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__tayron.md) — 1 listings, median 0 AUD
-- [Volkswagen Tiguan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__tiguan.md) — 45 listings, median 28945 AUD
-- [Volkswagen Touareg Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__touareg.md) — 14 listings, median 55970 AUD
+- [Volkswagen Polo Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__polo.md) — 10 listings, median 22467 AUD
+- [Volkswagen T-Cross Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__t-cross.md) — 9 listings, median 25995 AUD
+- [Volkswagen T-Roc Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__t-roc.md) — 23 listings, median 39990 AUD
+- [Volkswagen Tayron Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__tayron.md) — 13 listings, median 64990 AUD
+- [Volkswagen Tiguan Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__tiguan.md) — 47 listings, median 27945 AUD
+- [Volkswagen Touareg Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__touareg.md) — 15 listings, median 55950 AUD
 - [Volkswagen Transporter Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__transporter.md) — 4 listings, median 38990 AUD
 
 ## Volvo
@@ -527,9 +521,9 @@ _365 reviews updated 2026-07-24._
 - [Volvo Ex40 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__ex40.md) — 2 listings, median 80766 AUD
 - [Volvo Ex90 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__ex90.md) — 3 listings, median 109990 AUD
 - [Volvo S60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__s60.md) — 1 listings, median 24990 AUD
-- [Volvo V40 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v40.md) — 0 listings, median 0 AUD
-- [Volvo V60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v60.md) — 0 listings, median 0 AUD
+- [Volvo V40 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v40.md) — 1 listings, median 22990 AUD
+- [Volvo V60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v60.md) — 1 listings, median 42490 AUD
 - [Volvo V70 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__v70.md) — 0 listings, median 0 AUD
-- [Volvo Xc40 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc40.md) — 1 listings, median 48999 AUD
-- [Volvo Xc60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc60.md) — 12 listings, median 49940 AUD
+- [Volvo Xc40 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc40.md) — 16 listings, median 39470 AUD
+- [Volvo Xc60 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc60.md) — 13 listings, median 39890 AUD
 - [Volvo Xc90 Used Car Buyer's Guide](https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc90.md) — 9 listings, median 63777 AUD

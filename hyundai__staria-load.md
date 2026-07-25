@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Hyundai Staria Load — reli
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__staria-load.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 9
 median_price_aud: 49990
 price_range_aud: "AUD $35,480 – $57,888"

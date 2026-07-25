@@ -1,19 +1,19 @@
 ---
-title: "Jaguar Xjs Used Car Buyer's Guide"
+title: "Jaguar XJS Used Car Buyer's Guide"
 make: Jaguar
-model: Xjs
-description: "Comprehensive used car review for the Jaguar Xjs — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: XJS
+description: "Comprehensive used car review for the Jaguar XJS — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jaguar__xjs.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 0
 median_price_aud: 0
 price_range_aud: "AUD $0 – $0"
 year_range: "? – ?"
 median_odometer_km: 0
 keywords: [jaguar, xjs, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Jaguar, Xjs]
+breadcrumb: [Australian Used Car Reviews, Jaguar, XJS]
 ---
 
 #### 1. Introduction & Market Positioning

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz Amg Gt — rel
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__amg-gt.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 175990
-price_range_aud: "AUD $175,990 – $175,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 88270
+price_range_aud: "AUD $550 – $175,990"
 year_range: "2016 – 2021"
-median_odometer_km: 8996
+median_odometer_km: 17917
 keywords: [mercedes-benz, amg gt, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, Amg Gt]
 ---

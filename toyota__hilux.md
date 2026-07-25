@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Hilux — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__hilux.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 65995
-price_range_aud: "AUD $65,995 – $65,995"
-year_range: "2023 – 2023"
-median_odometer_km: 35454
+last_updated: "2026-07-25"
+active_listings_nsw: 163
+median_price_aud: 50990
+price_range_aud: "AUD $12,990 – $82,888"
+year_range: "2003 – 2025"
+median_odometer_km: 67482
 keywords: [toyota, hilux, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Hilux]
 ---

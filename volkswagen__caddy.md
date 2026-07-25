@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Caddy — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__caddy.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12950
-price_range_aud: "AUD $12,950 – $12,950"
-year_range: "2016 – 2016"
-median_odometer_km: 99761
+last_updated: "2026-07-25"
+active_listings_nsw: 12
+median_price_aud: 36950
+price_range_aud: "AUD $550 – $52,395"
+year_range: "2016 – 2025"
+median_odometer_km: 59946
 keywords: [volkswagen, caddy, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Caddy]
 ---

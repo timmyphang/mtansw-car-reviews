@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Commodore — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__commodore.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 72995
-price_range_aud: "AUD $72,995 – $72,995"
-year_range: "2017 – 2017"
-median_odometer_km: 51404
+last_updated: "2026-07-25"
+active_listings_nsw: 15
+median_price_aud: 22995
+price_range_aud: "AUD $12,990 – $72,995"
+year_range: "2010 – 2019"
+median_odometer_km: 124964
 keywords: [holden, commodore, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Commodore]
 ---

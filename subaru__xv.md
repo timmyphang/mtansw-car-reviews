@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru XV — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__xv.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 23994
-price_range_aud: "AUD $18,990 – $28,999"
-year_range: "2015 – 2021"
-median_odometer_km: 59782
+last_updated: "2026-07-25"
+active_listings_nsw: 18
+median_price_aud: 23999
+price_range_aud: "AUD $9,495 – $28,999"
+year_range: "2012 – 2022"
+median_odometer_km: 72334
 keywords: [subaru, xv, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, XV]
 ---

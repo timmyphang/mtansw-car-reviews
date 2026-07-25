@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Trax — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__trax.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 7995
-price_range_aud: "AUD $7,995 – $7,995"
-year_range: "2013 – 2013"
-median_odometer_km: 14367
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 11494
+price_range_aud: "AUD $0 – $14,999"
+year_range: "2013 – 2018"
+median_odometer_km: 84639
 keywords: [holden, trax, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Trax]
 ---

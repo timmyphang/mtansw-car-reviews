@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW 3 Series — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__3-series.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 41388
-price_range_aud: "AUD $24,800 – $97,888"
-year_range: "2018 – 2025"
-median_odometer_km: 68209
+last_updated: "2026-07-25"
+active_listings_nsw: 12
+median_price_aud: 33388
+price_range_aud: "AUD $550 – $97,888"
+year_range: "2016 – 2025"
+median_odometer_km: 69067
 keywords: [bmw, 3 series, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, 3 Series]
 ---

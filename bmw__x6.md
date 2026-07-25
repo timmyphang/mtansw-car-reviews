@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW X6 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x6.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 62888
-price_range_aud: "AUD $27,990 – $127,888"
-year_range: "2016 – 2024"
-median_odometer_km: 90130
+last_updated: "2026-07-25"
+active_listings_nsw: 8
+median_price_aud: 28990
+price_range_aud: "AUD $700 – $127,888"
+year_range: "2015 – 2024"
+median_odometer_km: 66674
 keywords: [bmw, x6, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, X6]
 ---

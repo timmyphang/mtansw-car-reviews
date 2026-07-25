@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volvo Xc40 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc40.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 48999
-price_range_aud: "AUD $48,999 – $48,999"
-year_range: "2025 – 2025"
-median_odometer_km: 19600
+last_updated: "2026-07-25"
+active_listings_nsw: 16
+median_price_aud: 39470
+price_range_aud: "AUD $700 – $74,111"
+year_range: "2018 – 2026"
+median_odometer_km: 49468
 keywords: [volvo, xc40, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volvo, Xc40]
 ---

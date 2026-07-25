@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volvo Xc60 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc60.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 12
-median_price_aud: 49940
-price_range_aud: "AUD $27,888 – $109,888"
-year_range: "2020 – 2026"
-median_odometer_km: 33241
+last_updated: "2026-07-25"
+active_listings_nsw: 13
+median_price_aud: 39890
+price_range_aud: "AUD $500 – $109,888"
+year_range: "2019 – 2026"
+median_odometer_km: 57207
 keywords: [volvo, xc60, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volvo, Xc60]
 ---

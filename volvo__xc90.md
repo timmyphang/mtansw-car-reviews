@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volvo Xc90 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__xc90.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 9
 median_price_aud: 63777
 price_range_aud: "AUD $26,888 – $134,990"

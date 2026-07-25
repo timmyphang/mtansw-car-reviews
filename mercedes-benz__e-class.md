@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz E-Class — re
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__e-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 50990
-price_range_aud: "AUD $22,990 – $179,888"
-year_range: "2014 – 2026"
-median_odometer_km: 28861
+last_updated: "2026-07-25"
+active_listings_nsw: 5
+median_price_aud: 22990
+price_range_aud: "AUD $14,990 – $179,888"
+year_range: "2011 – 2026"
+median_odometer_km: 6825
 keywords: [mercedes-benz, e-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, E-Class]
 ---

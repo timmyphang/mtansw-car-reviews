@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Maserati Grecale — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/maserati__grecale.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 23
 median_price_aud: 138880
 price_range_aud: "AUD $89,880 – $225,000"

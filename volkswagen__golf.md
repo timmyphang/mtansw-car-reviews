@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Golf — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__golf.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 19932
-price_range_aud: "AUD $19,932 – $19,932"
-year_range: "2019 – 2019"
-median_odometer_km: 47256
+last_updated: "2026-07-25"
+active_listings_nsw: 32
+median_price_aud: 33990
+price_range_aud: "AUD $0 – $77,990"
+year_range: "2018 – 2026"
+median_odometer_km: 2751
 keywords: [volkswagen, golf, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Golf]
 ---

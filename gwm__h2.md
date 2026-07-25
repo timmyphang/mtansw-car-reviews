@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the GWM H2 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__h2.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 15992
+price_range_aud: "AUD $12,990 – $18,995"
+year_range: "2020 – 2020"
+median_odometer_km: 82708
 keywords: [gwm, h2, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, GWM, H2]
 ---

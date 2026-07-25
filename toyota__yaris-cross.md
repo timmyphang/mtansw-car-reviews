@@ -6,9 +6,9 @@ description: "Comprehensive used car review for the Toyota Yaris Cross — relia
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__yaris-cross.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 19
-median_price_aud: 30950
+last_updated: "2026-07-25"
+active_listings_nsw: 21
+median_price_aud: 30990
 price_range_aud: "AUD $23,990 – $44,990"
 year_range: "2020 – 2025"
 median_odometer_km: 48304

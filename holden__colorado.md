@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Colorado — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__colorado.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 13990
-price_range_aud: "AUD $13,900 – $14,500"
-year_range: "2013 – 2016"
-median_odometer_km: 7647
+last_updated: "2026-07-25"
+active_listings_nsw: 28
+median_price_aud: 26970
+price_range_aud: "AUD $0 – $41,888"
+year_range: "2013 – 2020"
+median_odometer_km: 91239
 keywords: [holden, colorado, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Colorado]
 ---

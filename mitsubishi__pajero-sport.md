@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mitsubishi Pajero Sport — 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mitsubishi__pajero-sport.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "2024 – 2024"
-median_odometer_km: 12
+last_updated: "2026-07-25"
+active_listings_nsw: 44
+median_price_aud: 40990
+price_range_aud: "AUD $0 – $62,995"
+year_range: "2016 – 2025"
+median_odometer_km: 50887
 keywords: [mitsubishi, pajero sport, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mitsubishi, Pajero Sport]
 ---

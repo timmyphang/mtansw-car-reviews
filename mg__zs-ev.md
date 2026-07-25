@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the MG Zs Ev — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mg__zs-ev.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 4
 median_price_aud: 17990
 price_range_aud: "AUD $0 – $24,830"

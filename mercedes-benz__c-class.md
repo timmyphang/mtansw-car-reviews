@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz C-Class — re
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__c-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 6490
-price_range_aud: "AUD $6,490 – $6,490"
-year_range: "2003 – 2003"
-median_odometer_km: 25100
+last_updated: "2026-07-25"
+active_listings_nsw: 8
+median_price_aud: 32490
+price_range_aud: "AUD $6,490 – $69,990"
+year_range: "2003 – 2025"
+median_odometer_km: 68452
 keywords: [mercedes-benz, c-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, C-Class]
 ---

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Lexus RX — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__rx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 82888
-price_range_aud: "AUD $55,888 – $112,888"
-year_range: "2020 – 2025"
-median_odometer_km: 37324
+last_updated: "2026-07-25"
+active_listings_nsw: 40
+median_price_aud: 89910
+price_range_aud: "AUD $550 – $131,932"
+year_range: "2010 – 2025"
+median_odometer_km: 17608
 keywords: [lexus, rx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Lexus, RX]
 ---

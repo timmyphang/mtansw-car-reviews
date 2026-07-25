@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Renault Koleos — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/renault__koleos.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 17995
-price_range_aud: "AUD $17,995 – $17,995"
-year_range: "2019 – 2019"
-median_odometer_km: 76860
+last_updated: "2026-07-25"
+active_listings_nsw: 10
+median_price_aud: 19990
+price_range_aud: "AUD $14,888 – $23,990"
+year_range: "2019 – 2023"
+median_odometer_km: 73799
 keywords: [renault, koleos, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Renault, Koleos]
 ---

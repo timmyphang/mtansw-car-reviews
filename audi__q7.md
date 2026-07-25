@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Audi Q7 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q7.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 64970
-price_range_aud: "AUD $39,990 – $89,950"
-year_range: "2020 – 2023"
-median_odometer_km: 67505
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 39990
+price_range_aud: "AUD $2,400 – $89,950"
+year_range: "2015 – 2023"
+median_odometer_km: 20561
 keywords: [audi, q7, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Audi, Q7]
 ---

@@ -1,19 +1,19 @@
 ---
-title: "KIA K4 Used Car Buyer's Guide"
-make: KIA
+title: "Kia K4 Used Car Buyer's Guide"
+make: Kia
 model: K4
-description: "Comprehensive used car review for the KIA K4 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia K4 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__k4.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 48120
-price_range_aud: "AUD $38,490 – $48,120"
-year_range: "2024 – 2025"
-median_odometer_km: 158
+last_updated: "2026-07-25"
+active_listings_nsw: 14
+median_price_aud: 37220
+price_range_aud: "AUD $28,888 – $48,120"
+year_range: "2024 – 2026"
+median_odometer_km: 39
 keywords: [kia, k4, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, K4]
+breadcrumb: [Australian Used Car Reviews, Kia, K4]
 ---
 
 #### 1. Introduction & Market Positioning

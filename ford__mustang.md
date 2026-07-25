@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Mustang — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__mustang.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 4
-median_price_aud: 80995
-price_range_aud: "AUD $51,999 – $87,990"
-year_range: "2016 – 2025"
-median_odometer_km: 89
+last_updated: "2026-07-25"
+active_listings_nsw: 67
+median_price_aud: 75880
+price_range_aud: "AUD $0 – $333,990"
+year_range: "1965 – 2026"
+median_odometer_km: 1922
 keywords: [ford, mustang, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Mustang]
 ---

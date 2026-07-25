@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Mercedes-Benz GLE-Class — 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mercedes-benz__gle-class.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 9
-median_price_aud: 64939
-price_range_aud: "AUD $29,990 – $94,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 14
+median_price_aud: 47990
+price_range_aud: "AUD $550 – $94,990"
 year_range: "2015 – 2024"
-median_odometer_km: 55786
+median_odometer_km: 54142
 keywords: [mercedes-benz, gle-class, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Mercedes-Benz, GLE-Class]
 ---

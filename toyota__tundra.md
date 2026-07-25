@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Toyota Tundra — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__tundra.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 5
 median_price_aud: 129990
 price_range_aud: "AUD $114,990 – $142,888"

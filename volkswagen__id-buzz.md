@@ -1,19 +1,19 @@
 ---
-title: "Volkswagen Id.buzz Used Car Buyer's Guide"
+title: "Volkswagen ID. Buzz Used Car Buyer's Guide"
 make: Volkswagen
-model: Id.buzz
-description: "Comprehensive used car review for the Volkswagen Id.buzz — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: ID. Buzz
+description: "Comprehensive used car review for the Volkswagen ID. Buzz — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-buzz.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 71990
-price_range_aud: "AUD $71,990 – $71,990"
-year_range: "2026 – 2026"
-median_odometer_km: 300
-keywords: [volkswagen, id.buzz, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Volkswagen, Id.buzz]
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 90990
+price_range_aud: "AUD $71,990 – $109,990"
+year_range: "2025 – 2026"
+median_odometer_km: 900
+keywords: [volkswagen, id. buzz, used car, buyers guide, reliability, review, australia, nsw]
+breadcrumb: [Australian Used Car Reviews, Volkswagen, ID. Buzz]
 ---
 
 #### 1. Introduction & Market Positioning

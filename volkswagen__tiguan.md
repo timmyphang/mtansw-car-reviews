@@ -6,9 +6,9 @@ description: "Comprehensive used car review for the Volkswagen Tiguan — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__tiguan.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 45
-median_price_aud: 28945
+last_updated: "2026-07-25"
+active_listings_nsw: 47
+median_price_aud: 27945
 price_range_aud: "AUD $0 – $59,990"
 year_range: "2015 – 2027"
 median_odometer_km: 23951

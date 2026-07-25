@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Id.4 — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__id-4.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 64990
+price_range_aud: "AUD $59,990 – $69,990"
 year_range: "2025 – 2026"
-median_odometer_km: 10
+median_odometer_km: 12
 keywords: [volkswagen, id.4, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Id.4]
 ---

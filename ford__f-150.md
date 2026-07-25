@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford F-150 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__f-150.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 14
-median_price_aud: 115750
+last_updated: "2026-07-25"
+active_listings_nsw: 15
+median_price_aud: 119375
 price_range_aud: "AUD $97,990 – $164,000"
 year_range: "2023 – 2024"
-median_odometer_km: 70
+median_odometer_km: 65
 keywords: [ford, f-150, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, F-150]
 ---

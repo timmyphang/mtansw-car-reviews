@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Palisade — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__palisade.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 16
-median_price_aud: 54490
+last_updated: "2026-07-25"
+active_listings_nsw: 18
+median_price_aud: 60990
 price_range_aud: "AUD $32,990 – $94,990"
-year_range: "2020 – 2026"
-median_odometer_km: 76635
+year_range: "2000 – 2026"
+median_odometer_km: 66060
 keywords: [hyundai, palisade, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Palisade]
 ---

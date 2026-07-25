@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan X-Trail — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__x-trail.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 15990
-price_range_aud: "AUD $15,990 – $15,990"
-year_range: "2018 – 2018"
-median_odometer_km: 71400
+last_updated: "2026-07-25"
+active_listings_nsw: 83
+median_price_aud: 29990
+price_range_aud: "AUD $0 – $59,982"
+year_range: "2015 – 2026"
+median_odometer_km: 44770
 keywords: [nissan, x-trail, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, X-Trail]
 ---

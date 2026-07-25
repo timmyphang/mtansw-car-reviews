@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Abarth 500E — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/abarth__500e.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 5
 median_price_aud: 42888
 price_range_aud: "AUD $39,990 – $43,888"

@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Jeep Wrangler — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__wrangler.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 82888
-price_range_aud: "AUD $44,990 – $88,990"
-year_range: "2020 – 2025"
-median_odometer_km: 12161
+last_updated: "2026-07-25"
+active_listings_nsw: 12
+median_price_aud: 84750
+price_range_aud: "AUD $550 – $92,799"
+year_range: "2000 – 2025"
+median_odometer_km: 100
 keywords: [jeep, wrangler, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Wrangler]
 ---

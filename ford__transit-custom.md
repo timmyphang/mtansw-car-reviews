@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Ford Transit Custom — reli
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ford__transit-custom.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 30450
-price_range_aud: "AUD $22,950 – $37,950"
-year_range: "2018 – 2022"
-median_odometer_km: 62724
+last_updated: "2026-07-25"
+active_listings_nsw: 18
+median_price_aud: 35970
+price_range_aud: "AUD $18,950 – $67,000"
+year_range: "2016 – 2026"
+median_odometer_km: 16
 keywords: [ford, transit custom, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Ford, Transit Custom]
 ---

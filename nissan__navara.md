@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan Navara — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__navara.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 19900
-price_range_aud: "AUD $19,900 – $19,900"
-year_range: "2019 – 2019"
-median_odometer_km: 73500
+last_updated: "2026-07-25"
+active_listings_nsw: 64
+median_price_aud: 36990
+price_range_aud: "AUD $14,800 – $73,888"
+year_range: "2013 – 2026"
+median_odometer_km: 54207
 keywords: [nissan, navara, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, Navara]
 ---

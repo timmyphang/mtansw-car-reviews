@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Subaru Impreza — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/subaru__impreza.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 3
-median_price_aud: 22999
-price_range_aud: "AUD $19,990 – $23,999"
-year_range: "2017 – 2020"
-median_odometer_km: 70963
+last_updated: "2026-07-25"
+active_listings_nsw: 14
+median_price_aud: 19990
+price_range_aud: "AUD $9,990 – $31,950"
+year_range: "2016 – 2024"
+median_odometer_km: 72655
 keywords: [subaru, impreza, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Subaru, Impreza]
 ---

@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Volvo C40 — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volvo__c40.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 66490
 price_range_aud: "AUD $64,990 – $67,990"

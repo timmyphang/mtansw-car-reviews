@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Multivan — reli
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__multivan.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 62345
-price_range_aud: "AUD $53,990 – $79,990"
-year_range: "2020 – 2026"
-median_odometer_km: 34424
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 55990
+price_range_aud: "AUD $550 – $79,990"
+year_range: "2011 – 2026"
+median_odometer_km: 35472
 keywords: [volkswagen, multivan, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Multivan]
 ---

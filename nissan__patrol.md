@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan Patrol — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__patrol.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 11
-median_price_aud: 109500
-price_range_aud: "AUD $104,990 – $125,500"
-year_range: "2025 – 2026"
-median_odometer_km: 10
+last_updated: "2026-07-25"
+active_listings_nsw: 53
+median_price_aud: 104423
+price_range_aud: "AUD $31,990 – $125,500"
+year_range: "2006 – 2026"
+median_odometer_km: 20
 keywords: [nissan, patrol, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, Patrol]
 ---

@@ -1,19 +1,19 @@
 ---
-title: "Mazda Cx-80 Used Car Buyer's Guide"
+title: "Mazda CX-80 Used Car Buyer's Guide"
 make: Mazda
-model: Cx-80
-description: "Comprehensive used car review for the Mazda Cx-80 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: CX-80
+description: "Comprehensive used car review for the Mazda CX-80 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-80.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 68990
-price_range_aud: "AUD $68,990 – $68,990"
-year_range: "2026 – 2026"
+last_updated: "2026-07-25"
+active_listings_nsw: 9
+median_price_aud: 57880
+price_range_aud: "AUD $45,990 – $73,990"
+year_range: "2024 – 2026"
 median_odometer_km: 2720
 keywords: [mazda, cx-80, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mazda, Cx-80]
+breadcrumb: [Australian Used Car Reviews, Mazda, CX-80]
 ---
 
 #### 1. Introduction & Market Positioning

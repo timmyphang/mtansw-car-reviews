@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Holden Astra — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__astra.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 6665
-price_range_aud: "AUD $6,665 – $6,665"
-year_range: "2006 – 2006"
-median_odometer_km: 83895
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 14490
+price_range_aud: "AUD $6,665 – $14,995"
+year_range: "2006 – 2018"
+median_odometer_km: 95309
 keywords: [holden, astra, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Astra]
 ---

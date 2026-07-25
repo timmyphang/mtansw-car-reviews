@@ -1,19 +1,19 @@
 ---
-title: "Mazda Cx-60 Used Car Buyer's Guide"
+title: "Mazda CX-60 Used Car Buyer's Guide"
 make: Mazda
-model: Cx-60
-description: "Comprehensive used car review for the Mazda Cx-60 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: CX-60
+description: "Comprehensive used car review for the Mazda CX-60 — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-60.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 73452
-price_range_aud: "AUD $73,452 – $73,452"
-year_range: "2026 – 2026"
-median_odometer_km: 4
+last_updated: "2026-07-25"
+active_listings_nsw: 28
+median_price_aud: 49990
+price_range_aud: "AUD $39,999 – $73,452"
+year_range: "2023 – 2026"
+median_odometer_km: 6564
 keywords: [mazda, cx-60, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Mazda, Cx-60]
+breadcrumb: [Australian Used Car Reviews, Mazda, CX-60]
 ---
 
 #### 1. Introduction & Market Positioning

@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Hyundai Veloster — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__veloster.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 16900
 price_range_aud: "AUD $16,900 – $16,900"

@@ -6,10 +6,10 @@ description: "Comprehensive used car review for the Holden Monaro — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__monaro.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 61999
-price_range_aud: "AUD $61,999 – $61,999"
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 60997
+price_range_aud: "AUD $59,995 – $61,999"
 year_range: "2004 – 2004"
 median_odometer_km: 60800
 keywords: [holden, monaro, used car, buyers guide, reliability, review, australia, nsw]

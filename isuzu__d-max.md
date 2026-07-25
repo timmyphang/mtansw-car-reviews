@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the ISUZU D-MAX — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__d-max.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 38
-median_price_aud: 65490
-price_range_aud: "AUD $30,950 – $79,990"
-year_range: "2020 – 2026"
-median_odometer_km: 15
+last_updated: "2026-07-25"
+active_listings_nsw: 132
+median_price_aud: 56888
+price_range_aud: "AUD $0 – $79,990"
+year_range: "2016 – 2026"
+median_odometer_km: 20
 keywords: [isuzu, d-max, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, ISUZU, D-MAX]
 ---

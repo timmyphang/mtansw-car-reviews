@@ -1,19 +1,19 @@
 ---
-title: "Toyota Fj Cruiser Used Car Buyer's Guide"
+title: "Toyota FJ Cruiser Used Car Buyer's Guide"
 make: Toyota
-model: Fj Cruiser
-description: "Comprehensive used car review for the Toyota Fj Cruiser — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: FJ Cruiser
+description: "Comprehensive used car review for the Toyota FJ Cruiser — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__fj-cruiser.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 22990
-price_range_aud: "AUD $22,990 – $22,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 26492
+price_range_aud: "AUD $22,990 – $29,995"
 year_range: "2012 – 2012"
 median_odometer_km: 25977
 keywords: [toyota, fj cruiser, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Toyota, Fj Cruiser]
+breadcrumb: [Australian Used Car Reviews, Toyota, FJ Cruiser]
 ---
 
 #### 1. Introduction & Market Positioning

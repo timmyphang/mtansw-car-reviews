@@ -1,19 +1,19 @@
 ---
-title: "Lexus Lm Used Car Buyer's Guide"
+title: "Lexus LM Used Car Buyer's Guide"
 make: Lexus
-model: Lm
-description: "Comprehensive used car review for the Lexus Lm — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: LM
+description: "Comprehensive used car review for the Lexus LM — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lm.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 159932
+price_range_aud: "AUD $159,932 – $159,932"
+year_range: "2024 – 2024"
+median_odometer_km: 2828
 keywords: [lexus, lm, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Lexus, Lm]
+breadcrumb: [Australian Used Car Reviews, Lexus, LM]
 ---
 
 #### 1. Introduction & Market Positioning

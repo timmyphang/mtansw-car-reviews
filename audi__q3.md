@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Audi Q3 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__q3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 22490
 price_range_aud: "AUD $22,490 – $22,490"

@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mazda CX-8 — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-8.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 14
 median_price_aud: 30490
 price_range_aud: "AUD $24,990 – $41,990"

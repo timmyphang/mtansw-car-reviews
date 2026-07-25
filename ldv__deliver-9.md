@@ -6,9 +6,9 @@ description: "Comprehensive used car review for the LDV Deliver 9 — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/ldv__deliver-9.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 8
-median_price_aud: 57939
+last_updated: "2026-07-25"
+active_listings_nsw: 9
+median_price_aud: 62990
 price_range_aud: "AUD $26,480 – $99,500"
 year_range: "2022 – 2026"
 median_odometer_km: 70

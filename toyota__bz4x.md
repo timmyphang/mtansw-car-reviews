@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Toyota bZ4X — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__bz4x.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 54888
-price_range_aud: "AUD $54,888 – $54,888"
-year_range: "2025 – 2025"
+last_updated: "2026-07-25"
+active_listings_nsw: 3
+median_price_aud: 54970
+price_range_aud: "AUD $54,888 – $63,990"
+year_range: "2024 – 2026"
 median_odometer_km: 14833
 keywords: [toyota, bz4x, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, bZ4X]

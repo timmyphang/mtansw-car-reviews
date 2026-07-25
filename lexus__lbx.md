@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Lexus LBX — reliability, c
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__lbx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 53939
-price_range_aud: "AUD $52,888 – $54,990"
+last_updated: "2026-07-25"
+active_listings_nsw: 4
+median_price_aud: 54461
+price_range_aud: "AUD $52,888 – $78,999"
 year_range: "2024 – 2025"
-median_odometer_km: 18775
+median_odometer_km: 16827
 keywords: [lexus, lbx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Lexus, LBX]
 ---

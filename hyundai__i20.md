@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Hyundai I20 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__i20.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
+last_updated: "2026-07-25"
+active_listings_nsw: 4
 median_price_aud: 42388
-price_range_aud: "AUD $41,888 – $42,888"
-year_range: "2026 – 2026"
+price_range_aud: "AUD $31,995 – $43,790"
+year_range: "2023 – 2026"
 median_odometer_km: 30
 keywords: [hyundai, i20, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, I20]

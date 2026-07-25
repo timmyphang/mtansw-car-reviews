@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Hyundai Santa Fe — reliabi
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/hyundai__santa-fe.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 14995
-price_range_aud: "AUD $14,995 – $14,995"
-year_range: "2014 – 2014"
-median_odometer_km: 27198
+last_updated: "2026-07-25"
+active_listings_nsw: 57
+median_price_aud: 35606
+price_range_aud: "AUD $8,990 – $78,150"
+year_range: "2000 – 2026"
+median_odometer_km: 51808
 keywords: [hyundai, santa fe, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Hyundai, Santa Fe]
 ---

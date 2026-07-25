@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Lexus NX — reliability, co
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__nx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 53419
-price_range_aud: "AUD $52,888 – $53,950"
-year_range: "2022 – 2022"
-median_odometer_km: 28817
+last_updated: "2026-07-25"
+active_listings_nsw: 52
+median_price_aud: 79932
+price_range_aud: "AUD $550 – $157,864"
+year_range: "2016 – 2026"
+median_odometer_km: 7892
 keywords: [lexus, nx, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Lexus, NX]
 ---

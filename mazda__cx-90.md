@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mazda CX-90 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mazda__cx-90.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 3
 median_price_aud: 57490
 price_range_aud: "AUD $55,990 – $76,888"

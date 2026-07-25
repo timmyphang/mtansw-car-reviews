@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Land Rover Range Rover Evoqu
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/land-rover__range-rover-evoque.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 59740
-price_range_aud: "AUD $38,490 – $80,990"
-year_range: "2021 – 2024"
-median_odometer_km: 44866
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 1230
+price_range_aud: "AUD $550 – $80,990"
+year_range: "2017 – 2024"
+median_odometer_km: 91453
 keywords: [land rover, range rover evoque, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Land Rover, Range Rover Evoque]
 ---

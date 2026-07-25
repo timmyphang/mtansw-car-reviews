@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the CUPRA Formentor — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/cupra__formentor.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 38800
-price_range_aud: "AUD $38,800 – $38,800"
-year_range: "2025 – 2025"
-median_odometer_km: 26081
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 42489
+price_range_aud: "AUD $38,800 – $46,990"
+year_range: "2024 – 2025"
+median_odometer_km: 24686
 keywords: [cupra, formentor, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, CUPRA, Formentor]
 ---

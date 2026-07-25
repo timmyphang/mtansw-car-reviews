@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Toyota Rav4 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/toyota__rav4.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 49932
-price_range_aud: "AUD $49,932 – $49,932"
-year_range: "2023 – 2023"
-median_odometer_km: 19836
+last_updated: "2026-07-25"
+active_listings_nsw: 170
+median_price_aud: 40240
+price_range_aud: "AUD $0 – $69,990"
+year_range: "2012 – 2026"
+median_odometer_km: 72973
 keywords: [toyota, rav4, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Toyota, Rav4]
 ---

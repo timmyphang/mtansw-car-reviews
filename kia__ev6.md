@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Kia Ev6 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__ev6.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 1
 median_price_aud: 51990
 price_range_aud: "AUD $51,990 – $51,990"

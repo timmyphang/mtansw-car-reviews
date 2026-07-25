@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Porsche 911 — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/porsche__911.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 7
-median_price_aud: 349990
-price_range_aud: "AUD $255,900 – $579,990"
-year_range: "2018 – 2025"
-median_odometer_km: 19571
+last_updated: "2026-07-25"
+active_listings_nsw: 8
+median_price_aud: 321445
+price_range_aud: "AUD $550 – $579,990"
+year_range: "2006 – 2025"
+median_odometer_km: 10259
 keywords: [porsche, 911, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Porsche, 911]
 ---

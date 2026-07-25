@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the GWM Haval H6GT — reliabili
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/gwm__haval-h6gt.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 19
-median_price_aud: 43990
+last_updated: "2026-07-25"
+active_listings_nsw: 20
+median_price_aud: 43490
 price_range_aud: "AUD $29,490 – $54,990"
 year_range: "2022 – 2026"
-median_odometer_km: 25
+median_odometer_km: 63
 keywords: [gwm, haval h6gt, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, GWM, Haval H6GT]
 ---

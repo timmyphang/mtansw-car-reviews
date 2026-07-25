@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Audi A3 — reliability, com
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/audi__a3.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 11830
-price_range_aud: "AUD $11,830 – $11,830"
-year_range: "2015 – 2015"
-median_odometer_km: 102079
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 6190
+price_range_aud: "AUD $550 – $11,830"
+year_range: "2015 – 2019"
+median_odometer_km: 99950
 keywords: [audi, a3, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Audi, A3]
 ---

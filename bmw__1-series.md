@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW 1 Series — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__1-series.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 5
-median_price_aud: 33888
-price_range_aud: "AUD $27,888 – $36,950"
+last_updated: "2026-07-25"
+active_listings_nsw: 6
+median_price_aud: 31388
+price_range_aud: "AUD $2,100 – $36,950"
 year_range: "2019 – 2022"
-median_odometer_km: 51009
+median_odometer_km: 61312
 keywords: [bmw, 1 series, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, 1 Series]
 ---

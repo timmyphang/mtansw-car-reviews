@@ -1,19 +1,19 @@
 ---
-title: "Lexus Gx Used Car Buyer's Guide"
+title: "Lexus GX Used Car Buyer's Guide"
 make: Lexus
-model: Gx
-description: "Comprehensive used car review for the Lexus Gx — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+model: GX
+description: "Comprehensive used car review for the Lexus GX — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/lexus__gx.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
-median_odometer_km: 0
+last_updated: "2026-07-25"
+active_listings_nsw: 2
+median_price_aud: 139966
+price_range_aud: "AUD $129,999 – $149,932"
+year_range: "2024 – 2024"
+median_odometer_km: 21564
 keywords: [lexus, gx, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, Lexus, Gx]
+breadcrumb: [Australian Used Car Reviews, Lexus, GX]
 ---
 
 #### 1. Introduction & Market Positioning

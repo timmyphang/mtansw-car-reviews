@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the ISUZU MU-X — reliability, 
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/isuzu__mu-x.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 22
-median_price_aud: 75240
-price_range_aud: "AUD $48,990 – $81,690"
-year_range: "2025 – 2026"
-median_odometer_km: 12
+last_updated: "2026-07-25"
+active_listings_nsw: 92
+median_price_aud: 59939
+price_range_aud: "AUD $0 – $85,990"
+year_range: "2016 – 2026"
+median_odometer_km: 24
 keywords: [isuzu, mu-x, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, ISUZU, MU-X]
 ---

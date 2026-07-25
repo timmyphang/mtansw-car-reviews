@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Nissan Juke — reliability,
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/nissan__juke.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 10
-median_price_aud: 23470
-price_range_aud: "AUD $0 – $28,888"
-year_range: "2020 – 2025"
-median_odometer_km: 13720
+last_updated: "2026-07-25"
+active_listings_nsw: 12
+median_price_aud: 24470
+price_range_aud: "AUD $0 – $33,990"
+year_range: "2000 – 2025"
+median_odometer_km: 7144
 keywords: [nissan, juke, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Nissan, Juke]
 ---

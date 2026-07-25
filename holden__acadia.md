@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Holden Acadia — reliabilit
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/holden__acadia.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 0
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "? – ?"
+last_updated: "2026-07-25"
+active_listings_nsw: 1
+median_price_aud: 24995
+price_range_aud: "AUD $24,995 – $24,995"
+year_range: "2019 – 2019"
 median_odometer_km: 0
 keywords: [holden, acadia, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Holden, Acadia]

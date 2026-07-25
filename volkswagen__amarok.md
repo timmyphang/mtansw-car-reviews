@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the Volkswagen Amarok — reliab
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/volkswagen__amarok.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 2
-median_price_aud: 0
-price_range_aud: "AUD $0 – $0"
-year_range: "2023 – 2024"
-median_odometer_km: 3723
+last_updated: "2026-07-25"
+active_listings_nsw: 38
+median_price_aud: 45990
+price_range_aud: "AUD $0 – $76,990"
+year_range: "2015 – 2026"
+median_odometer_km: 32188
 keywords: [volkswagen, amarok, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Volkswagen, Amarok]
 ---

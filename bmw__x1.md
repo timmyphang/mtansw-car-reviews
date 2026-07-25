@@ -6,12 +6,12 @@ description: "Comprehensive used car review for the BMW X1 — reliability, comm
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/bmw__x1.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 12995
-price_range_aud: "AUD $12,995 – $12,995"
-year_range: "2013 – 2013"
-median_odometer_km: 127523
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 27932
+price_range_aud: "AUD $2,300 – $47,888"
+year_range: "2013 – 2023"
+median_odometer_km: 66492
 keywords: [bmw, x1, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, BMW, X1]
 ---

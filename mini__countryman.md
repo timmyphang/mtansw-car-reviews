@@ -6,7 +6,7 @@ description: "Comprehensive used car review for the Mini Countryman — reliabil
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/mini__countryman.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
+last_updated: "2026-07-25"
 active_listings_nsw: 2
 median_price_aud: 53470
 price_range_aud: "AUD $47,950 – $58,990"

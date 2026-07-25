@@ -1,19 +1,19 @@
 ---
-title: "KIA Sportage Used Car Buyer's Guide"
-make: KIA
+title: "Kia Sportage Used Car Buyer's Guide"
+make: Kia
 model: Sportage
-description: "Comprehensive used car review for the KIA Sportage — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
+description: "Comprehensive used car review for the Kia Sportage — reliability, common faults, market pricing, and buying advice grounded in live NSW dealer data."
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/kia__sportage.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 9
-median_price_aud: 52500
-price_range_aud: "AUD $46,490 – $62,700"
-year_range: "2025 – 2026"
-median_odometer_km: 10
+last_updated: "2026-07-25"
+active_listings_nsw: 98
+median_price_aud: 37850
+price_range_aud: "AUD $0 – $63,918"
+year_range: "2015 – 2026"
+median_odometer_km: 37927
 keywords: [kia, sportage, used car, buyers guide, reliability, review, australia, nsw]
-breadcrumb: [Australian Used Car Reviews, KIA, Sportage]
+breadcrumb: [Australian Used Car Reviews, Kia, Sportage]
 ---
 
 #### 1. Introduction & Market Positioning

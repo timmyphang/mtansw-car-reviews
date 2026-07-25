@@ -6,11 +6,11 @@ description: "Comprehensive used car review for the Jeep Compass — reliability
 locale: en-AU
 canonical_url: "https://raw.githubusercontent.com/timmyphang/mtansw-car-reviews/main/jeep__compass.md"
 topic_type: buyers-guide
-last_updated: "2026-07-24"
-active_listings_nsw: 1
-median_price_aud: 14995
-price_range_aud: "AUD $14,995 – $14,995"
-year_range: "2020 – 2020"
+last_updated: "2026-07-25"
+active_listings_nsw: 7
+median_price_aud: 25985
+price_range_aud: "AUD $14,995 – $61,481"
+year_range: "2020 – 2025"
 median_odometer_km: 22221
 keywords: [jeep, compass, used car, buyers guide, reliability, review, australia, nsw]
 breadcrumb: [Australian Used Car Reviews, Jeep, Compass]
